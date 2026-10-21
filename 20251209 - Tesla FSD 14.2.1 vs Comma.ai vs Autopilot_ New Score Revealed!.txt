@@ -1,0 +1,2621 @@
+COMPLEET DOSSIER VOOR: Tesla FSD 14.2.1 vs Comma.ai vs Autopilot: New Score Revealed!
+UPLOAD DATUM: 20251209
+================================================================================
+
+--- VIDEO BESCHRIJVING & CHAPTERS ---
+Save $50 on a comma four (and support the channel) using my referral code: https://refer.comma.ai/PM65UJR
+
+Today we’re revisiting the Tesla vs Openpilot comparisons with a REAL follow-up test. Last time we compared Tesla’s Enhanced Autopilot to Comma.ai’s Openpilot with Sunnypilot running on my Rivian R1T—and Openpilot won 26.5 to 21.5 using our 6-category scoring system.
+
+This time we’re testing Tesla FSD v14.2.1 to see how much progress Tesla has made and how it stacks up. We took my wife’s 2023 Model Y on a similar route and graded FSD with and without a destination entered into navigation.
+
+Has FSD improved enough to catch up—or even pass—Openpilot? Join us to see how it scores and compares!
+
+Chapters
+0:00 Intro
+1:21 Testing FSD without a destination
+3:49 FSD has a mind of its own
+8:07 Handling curves very nicely
+8:39 FSD fails a left turn
+11:04 I want to make an exit, FSD has other plans
+15:30 We enter a destination into navigation
+16:49 Smoothly getting onto the highway
+18:08 Discussing FSD curbing our wheels
+21:21 Arriving and parking at our destination
+22:42 Ali takes the driver's seat on the way home
+27:41 Recording our scores
+28:37 We discuss our experience
+41:10 Final scores revealed
+
+#fsd #autopilot #openpilot #tesla #commaai #handsfree
+
+================================================================================
+
+--- TRANSCRIPT MET SCHONE TIJDCODES ---
+[01:24] JERRY:
+    Hey there EV fam. This is Jerry with the Electric Valentine's. Welcome back to the channel. About a month ago or so, my wife and I swapped vehicles to pit Tesla's enhanced autopilot up against Kama AI's Open Pilot. She drove my 2022 Rivian R1T with a Kama 3X and I drove her 2023 Tesla Model Y with hardware 4 and enhanced autopilot. We pitted the two systems against each other in six categories, including driving performance, comfort and smoothness, ease of use, driver monitoring, interface and visualizations, and cost and flexibility. Now, in that head-to-head matchup, Tesla's enhanced autopilot came up with a score of 21.5, and KAI's Open Pilot received a score of 26.5 with KA AI's Open Pilot taking the win in that matchup. But today, we're back and we're giving Tesla a second chance as my wife and I take her 2023 Tesla Model Y and put Tesla's FSD version 14.2.1 through its paces. We're testing FSD both with and without a destination entered into navigation. And we're testing it on a very similar route as we did for autopilot and open pilot. So, come join us as we see where Tesla's FSD stacks up against those other two systems. Okay. How do you start self-driving?
+
+[01:25] ALLISON / SPREKER 2:
+    Hit the button.
+
+[01:25] JERRY:
+    Hit the button.
+
+[01:25] ALLISON / SPREKER 2:
+    Hit the button.
+
+[01:26] JERRY:
+    Where's the button?
+
+[01:26] ALLISON / SPREKER 2:
+    Where's the button?
+
+[01:26] JERRY:
+    Where's the button?
+
+[01:27] ALLISON / SPREKER 2:
+    Right there.
+
+[01:27] JERRY:
+    Right there.
+
+[01:27] ALLISON / SPREKER 2:
+    Right there.
+
+[01:29] JERRY:
+    Okay. So, uh, yeah, you told me that we
+
+[01:29] ALLISON / SPREKER 2:
+    Okay. So, uh, yeah, you told me that we
+
+[02:51] JERRY:
+    Okay. So, uh, yeah, you told me that we can just start self-driving. We don't necessarily have to have a destination in mind. So, I'm going to press the button right now. Actually, want to turn left here. Well, this is nice because I was actually under the impression before that you had to put in a destination or an address to use full self-driving. So, this is cool that you can just kind of go out and use it. So, let's see how it does. We're taking the a very similar route to the test we did for um for open pilot and autopilot though we're changing it slightly to do some specific tests for FSD. It's odd that it chooses a direction for you. You'd think it would just like stop and wait for you to like make a decision. You want to turn left or right? Because it doesn't know where we want to go. We haven't put in a destination or anything.
+
+[02:53] ALLISON / SPREKER 2:
+    It might be trying to go home. I don't
+
+[02:53] JERRY:
+    It might be trying to go home. I don't
+
+[02:53] ALLISON / SPREKER 2:
+    It might be trying to go home. I don't know.
+
+[02:55] JERRY:
+    Maybe. No. Now it's choosing. I don't
+
+[02:55] ALLISON / SPREKER 2:
+    Maybe. No. Now it's choosing. I don't
+
+[02:59] JERRY:
+    Maybe. No. Now it's choosing. I don't want to go that way. I just want to go straight. Okay. Weird. Why is it going this way?
+
+[03:02] ALLISON / SPREKER 2:
+    I don't know. It's taking us on a road
+
+[03:02] JERRY:
+    I don't know. It's taking us on a road
+
+[03:03] ALLISON / SPREKER 2:
+    I don't know. It's taking us on a road trip.
+
+[03:04] JERRY:
+    Yeah. Maybe it's like, oh, you guys just
+
+[03:04] ALLISON / SPREKER 2:
+    Yeah. Maybe it's like, oh, you guys just
+
+[03:22] JERRY:
+    Yeah. Maybe it's like, oh, you guys just want to drive. I'll just take you somewhere. This is not where we wanted to go. I just wanted to go straight there. All right. How about this? Can I turn down Hopkins here? Looks like it's doing it good.
+
+[03:23] ALLISON / SPREKER 2:
+    I'm pretty sure if we kept going that
+
+[03:23] JERRY:
+    I'm pretty sure if we kept going that
+
+[03:28] ALLISON / SPREKER 2:
+    I'm pretty sure if we kept going that way, it's going to go out to Main Street. Oh,
+
+[04:08] JERRY:
+    okay. Nice stop. Okay. No, I want to make a left. Yeah. So, now we're getting on to our main route here for the test. No. What the hell?
+
+[04:10] ALLISON / SPREKER 2:
+    Why did it do that? I had it turning
+
+[04:10] JERRY:
+    Why did it do that? I had it turning
+
+[04:14] ALLISON / SPREKER 2:
+    Why did it do that? I had it turning left, right, and it changed its mind. Okay, that's weird.
+
+[04:16] JERRY:
+    Yeah, now you're not into
+
+[04:16] ALLISON / SPREKER 2:
+    Yeah, now you're not into
+
+[04:16] JERRY:
+    Yeah, now you're not into
+
+[04:17] ALLISON / SPREKER 2:
+    And now because it doesn't have
+
+[04:17] JERRY:
+    And now because it doesn't have
+
+[04:32] ALLISON / SPREKER 2:
+    And now because it doesn't have cooperative steering, I have to start over again. That's annoying. So maybe that is one. Why is it going so slow?
+
+[04:34] JERRY:
+    It says the speed limit is 30, but it's
+
+[04:34] ALLISON / SPREKER 2:
+    It says the speed limit is 30, but it's
+
+[04:34] JERRY:
+    It says the speed limit is 30, but it's not.
+
+[04:36] ALLISON / SPREKER 2:
+    Yeah, the speed limit is not 30 here.
+
+[04:36] JERRY:
+    Yeah, the speed limit is not 30 here.
+
+[04:36] ALLISON / SPREKER 2:
+    Yeah, the speed limit is not 30 here.
+
+[04:37] JERRY:
+    So
+
+[04:37] ALLISON / SPREKER 2:
+    So
+
+[04:37] JERRY:
+    So
+
+[04:57] ALLISON / SPREKER 2:
+    So I'm just going to manually speed up because otherwise we will have angry people behind us. We might already. And now I've got to I've got to
+
+[04:59] JERRY:
+    override.
+
+[04:59] ALLISON / SPREKER 2:
+    override.
+
+[04:59] JERRY:
+    override.
+
+[04:59] ALLISON / SPREKER 2:
+    Yeah, that's annoying.
+
+[04:59] JERRY:
+    Yeah, that's annoying.
+
+[04:59] ALLISON / SPREKER 2:
+    Yeah, that's annoying.
+
+[05:00] JERRY:
+    Yeah. No, it's not going to
+
+[05:00] ALLISON / SPREKER 2:
+    Yeah. No, it's not going to
+
+[05:00] JERRY:
+    Yeah. No, it's not going to
+
+[05:03] ALLISON / SPREKER 2:
+    still says it's 30. The just uh for
+
+[05:03] JERRY:
+    still says it's 30. The just uh for
+
+[05:27] ALLISON / SPREKER 2:
+    still says it's 30. The just uh for reference, the speed limit here is 55, not 30. So, if we were actually going to be doing 30 here, you'd be going extremely slow. As you can see, we have a speed limit sign here. 55. Hopefully, the Tesla will see it and adjust the Okay, now we go. Now we go at 55. Perfect. I'm wondering if it's just keeping what the other speed limit was.
+
+[05:28] JERRY:
+    Yeah, maybe it's not pulling it from
+
+[05:28] ALLISON / SPREKER 2:
+    Yeah, maybe it's not pulling it from
+
+[05:29] JERRY:
+    Yeah, maybe it's not pulling it from apps and just
+
+[05:33] ALLISON / SPREKER 2:
+    Yeah, because I take this road,
+
+[05:33] JERRY:
+    Yeah, because I take this road,
+
+[05:33] ALLISON / SPREKER 2:
+    Yeah, because I take this road,
+
+[05:36] JERRY:
+    you know, in the mornings and but I
+
+[05:36] ALLISON / SPREKER 2:
+    you know, in the mornings and but I
+
+[05:46] JERRY:
+    you know, in the mornings and but I don't turn there. I turn at the light and so uh the speed limit the first speed limit you see is 45 and then up about
+
+[05:47] ALLISON / SPREKER 2:
+    another
+
+[05:47] JERRY:
+    another
+
+[05:47] ALLISON / SPREKER 2:
+    another
+
+[05:48] JERRY:
+    that is annoying though that it's not
+
+[05:48] ALLISON / SPREKER 2:
+    that is annoying though that it's not
+
+[05:51] JERRY:
+    that is annoying though that it's not changing until it sees a speed limit sign
+
+[05:53] ALLISON / SPREKER 2:
+    cuz that mean as you could as you can
+
+[05:53] JERRY:
+    cuz that mean as you could as you can
+
+[05:55] ALLISON / SPREKER 2:
+    cuz that mean as you could as you can see that wasn't until a ways down the road.
+
+[05:55] JERRY:
+    Yeah.
+
+[05:56] ALLISON / SPREKER 2:
+    Yeah.
+
+[05:56] JERRY:
+    Yeah.
+
+[05:58] ALLISON / SPREKER 2:
+    And uh
+
+[05:58] JERRY:
+    And uh
+
+[05:58] ALLISON / SPREKER 2:
+    And uh
+
+[05:59] JERRY:
+    that could be annoying for other drivers
+
+[05:59] ALLISON / SPREKER 2:
+    that could be annoying for other drivers
+
+[06:02] JERRY:
+    that could be annoying for other drivers around you.
+
+[06:04] ALLISON / SPREKER 2:
+    I mean it's obviously getting it just
+
+[06:04] JERRY:
+    I mean it's obviously getting it just
+
+[07:06] ALLISON / SPREKER 2:
+    I mean it's obviously getting it just from the speed limit sign reading it on the road. I would have thought it would just be pulling it from online maps, but it doesn't seem like it is. All right. So, as we come up to this intersection, I want to turn left. So, let's see if it actually turns left this time or decides on its own it wants to turn right. All right. Good. Now, I understand like this isn't like the probably the normal use case for it. Like most people when they're using FSD are going to be putting in a
+
+[07:07] JERRY:
+    I was just thinking the same thing like
+
+[07:07] ALLISON / SPREKER 2:
+    I was just thinking the same thing like
+
+[07:10] JERRY:
+    I was just thinking the same thing like it probably would work better if you had a destination.
+
+[07:12] ALLISON / SPREKER 2:
+    Absolutely. So I'm not going to fault it
+
+[07:12] JERRY:
+    Absolutely. So I'm not going to fault it
+
+[07:35] ALLISON / SPREKER 2:
+    Absolutely. So I'm not going to fault it too much. Although if I if I if I actually have the signal turned left, it shouldn't then automatically override it and change its mind and say, "Oh, never mind. I'm going to actually turn right here." Especially if there's no reason for it to do that, right? There was a left turn was a perfectly viable turn. So, it's just kind of weird.
+
+[07:36] JERRY:
+    Well, especially since we hadn't given
+
+[07:36] ALLISON / SPREKER 2:
+    Well, especially since we hadn't given
+
+[07:41] JERRY:
+    Well, especially since we hadn't given it any direction. Why would it want to just turn right anyway?
+
+[07:45] ALLISON / SPREKER 2:
+    Yeah. Yeah. And Yeah. Exactly. A making
+
+[07:45] JERRY:
+    Yeah. Yeah. And Yeah. Exactly. A making
+
+[07:57] ALLISON / SPREKER 2:
+    Yeah. Yeah. And Yeah. Exactly. A making a decision on what direction to turn. Period. It in my opinion should just wait for the driver to select a direction. But then if you have selected a direction, don't change the direction. That's weird.
+
+[08:00] JERRY:
+    It's It really is autonomous. Yeah,
+
+[08:00] ALLISON / SPREKER 2:
+    It's It really is autonomous. Yeah,
+
+[08:09] JERRY:
+    It's It really is autonomous. Yeah, exactly.
+
+[08:10] ALLISON / SPREKER 2:
+    Nice handling of the curves here. Much
+
+[08:10] JERRY:
+    Nice handling of the curves here. Much
+
+[08:19] ALLISON / SPREKER 2:
+    Nice handling of the curves here. Much better than it was doing on autopilot when we tested it last time where it was just flying through them. It didn't seem like it was slowing down at all. So, this is
+
+[08:22] JERRY:
+    although I still believe that you
+
+[08:22] ALLISON / SPREKER 2:
+    although I still believe that you
+
+[08:49] JERRY:
+    although I still believe that you weren't giving it a chance because you were interfering. Uh, I might not have been giving it a chance and I might also not have had crutch settings in autopilot for that. I think there may be setting for it to slow down for curbs. So, there's that. All right. So, want to turn left here. No, I want to turn left. Get in the No. Okay,
+
+[08:49] ALLISON / SPREKER 2:
+    that was weird.
+
+[08:49] JERRY:
+    that was weird.
+
+[08:49] ALLISON / SPREKER 2:
+    that was weird.
+
+[09:01] JERRY:
+    The disengagement again. Yeah, it wouldn't go into the turn lane.
+
+[09:03] ALLISON / SPREKER 2:
+    And again, I want to reiterate this is
+
+[09:03] JERRY:
+    And again, I want to reiterate this is
+
+[09:17] ALLISON / SPREKER 2:
+    And again, I want to reiterate this is probably not the standard use case for FSD, but that's like a simple thing, right? If it's coming up to an intersection and I have this turn signal, why is it doing this? I don't want to turn there.
+
+[09:20] JERRY:
+    Um,
+
+[09:20] ALLISON / SPREKER 2:
+    Um,
+
+[09:31] JERRY:
+    Um, yeah, weird. I if I have the turn signal turned left, it should know that I want to turn left at this intersection to get in the correct lane to make a left turn and just do it.
+
+[09:33] ALLISON / SPREKER 2:
+    Mhm.
+
+[09:33] JERRY:
+    Mhm.
+
+[09:33] ALLISON / SPREKER 2:
+    Mhm.
+
+[09:35] JERRY:
+    Why? You know, I don't know.
+
+[09:36] ALLISON / SPREKER 2:
+    Why? You know, I don't know.
+
+[09:36] JERRY:
+    Why? You know, I don't know.
+
+[09:38] ALLISON / SPREKER 2:
+    Because on the screen you could see that
+
+[09:38] JERRY:
+    Because on the screen you could see that
+
+[09:39] ALLISON / SPREKER 2:
+    Because on the screen you could see that it had the different lanes on there.
+
+[09:41] JERRY:
+    Yeah, exactly.
+
+[09:41] ALLISON / SPREKER 2:
+    Yeah, exactly.
+
+[09:41] JERRY:
+    Yeah, exactly.
+
+[09:42] ALLISON / SPREKER 2:
+    Showing whether it was turning or
+
+[09:42] JERRY:
+    Showing whether it was turning or
+
+[09:56] ALLISON / SPREKER 2:
+    Showing whether it was turning or straight. So, it should have known. And I have I have a feeling like if we had a destination put in and it knew it needed to turn left at that intersection, it would have been able to do it. So why is it any different?
+
+[10:20] JERRY:
+    That's a very good question. Actually, it was a little worried it was going to try and turn left there.
+
+[10:21] ALLISON / SPREKER 2:
+    I mean, I was actually thinking the same
+
+[10:21] JERRY:
+    I mean, I was actually thinking the same
+
+[10:36] ALLISON / SPREKER 2:
+    I mean, I was actually thinking the same thing. Every time we come up to an intersection, I'm now actually like, are you going to go straight? Are you going to try to turn?
+
+[10:37] JERRY:
+    It's like the Tesla is going to take us
+
+[10:37] ALLISON / SPREKER 2:
+    It's like the Tesla is going to take us
+
+[10:38] JERRY:
+    It's like the Tesla is going to take us on its own adventure.
+
+[10:40] ALLISON / SPREKER 2:
+    Oh, yes, exactly. It has its own
+
+[10:40] JERRY:
+    Oh, yes, exactly. It has its own
+
+[10:44] ALLISON / SPREKER 2:
+    Oh, yes, exactly. It has its own destination. Am I like you guys are going to choose a destination? Okay. Well, I will then.
+
+[10:48] JERRY:
+    Yes.
+
+[10:51] ALLISON / SPREKER 2:
+    It's a nice blue Silverado EV that just
+
+[10:51] JERRY:
+    It's a nice blue Silverado EV that just
+
+[11:13] ALLISON / SPREKER 2:
+    It's a nice blue Silverado EV that just passed us. All right. So, I'm going to want to exit here. So, if I have the signal on, it will do it. Perfect. Oh, jeez.
+
+[11:15] JERRY:
+    Why? The signal was on
+
+[11:15] ALLISON / SPREKER 2:
+    Why? The signal was on
+
+[11:15] JERRY:
+    Why? The signal was on
+
+[11:16] ALLISON / SPREKER 2:
+    and it looked like it was going
+
+[11:16] JERRY:
+    and it looked like it was going
+
+[11:16] ALLISON / SPREKER 2:
+    and it looked like it was going
+
+[11:17] JERRY:
+    and it was going to do it. Yeah,
+
+[11:17] ALLISON / SPREKER 2:
+    and it was going to do it. Yeah,
+
+[11:20] JERRY:
+    and it was going to do it. Yeah, exactly.
+
+[11:21] ALLISON / SPREKER 2:
+    Seems dangerous.
+
+[11:21] JERRY:
+    Seems dangerous.
+
+[11:21] ALLISON / SPREKER 2:
+    Seems dangerous.
+
+[11:24] JERRY:
+    Extreme. Yeah, extremely annoying.
+
+[11:24] ALLISON / SPREKER 2:
+    Extreme. Yeah, extremely annoying.
+
+[11:42] JERRY:
+    Extreme. Yeah, extremely annoying. And again, I understand this is not the standard use case, but why does it do that? It's so weird. All right. So, now we're coming up on this area or the section of 380 that um
+
+[11:43] ALLISON / SPREKER 2:
+    we have trouble with the speed
+
+[11:43] JERRY:
+    we have trouble with the speed
+
+[11:44] ALLISON / SPREKER 2:
+    we have trouble with the speed limits.
+
+[11:45] JERRY:
+    With the speed limits. Exactly. So,
+
+[11:45] ALLISON / SPREKER 2:
+    With the speed limits. Exactly. So,
+
+[11:53] JERRY:
+    With the speed limits. Exactly. So, we'll see. I'm assuming we're going to have the same issue, but we'll see what happens. It's 60 here, but then it's I think it's going to drop down to
+
+[11:54] ALLISON / SPREKER 2:
+    50.
+
+[11:54] JERRY:
+    50.
+
+[11:54] ALLISON / SPREKER 2:
+    50.
+
+[11:56] JERRY:
+    Even though it shouldn't.
+
+[11:56] ALLISON / SPREKER 2:
+    Even though it shouldn't.
+
+[11:56] JERRY:
+    Even though it shouldn't.
+
+[11:58] ALLISON / SPREKER 2:
+    Yeah. Even though there shouldn't be any
+
+[11:58] JERRY:
+    Yeah. Even though there shouldn't be any
+
+[12:28] ALLISON / SPREKER 2:
+    Yeah. Even though there shouldn't be any street signs that say that because the speed limit is 60. So yeah, we'll see if it's pulling from online maps potentially. Then if it does drop down to 50 speed limit sign here says 60.
+
+[12:44] JERRY:
+    So far so good. We are going kind of slow though. It's speed limit 60, but we're going 55, which got somebody riding our ass here.
+
+[12:44] ALLISON / SPREKER 2:
+    Oh, yeah.
+
+[12:44] JERRY:
+    Oh, yeah.
+
+[12:44] ALLISON / SPREKER 2:
+    Oh, yeah.
+
+[12:46] JERRY:
+    But I mean, we're going the speed of
+
+[12:46] ALLISON / SPREKER 2:
+    But I mean, we're going the speed of
+
+[13:22] JERRY:
+    But I mean, we're going the speed of traffic, so one of the issues with the stretch of 380 is that though the speed limit says 60, often people are going 7075 down this thing, too. So, it is what it is. We're in the right lane. If this guy behind us wants to pass us, he can pass us. Yeah. But if you remember with the auto steer that it was the capping at 55. So, this is actually good.
+
+[13:24] ALLISON / SPREKER 2:
+    Yeah, it's not bad.
+
+[13:24] JERRY:
+    Yeah, it's not bad.
+
+[13:24] ALLISON / SPREKER 2:
+    Yeah, it's not bad.
+
+[13:28] JERRY:
+    At least going above that 55 cap.
+
+[13:28] ALLISON / SPREKER 2:
+    At least going above that 55 cap.
+
+[13:44] JERRY:
+    At least going above that 55 cap. I mean, we're we're following the flow of traffic pretty nicely. I mean, there are people that are obviously speeding past us. Like I mentioned, people sometimes go 7075 down this thing. Ah.
+
+[13:46] ALLISON / SPREKER 2:
+    Oh, yeah. We need to not be behind this
+
+[13:46] JERRY:
+    Oh, yeah. We need to not be behind this
+
+[13:47] ALLISON / SPREKER 2:
+    Oh, yeah. We need to not be behind this guy.
+
+[13:51] JERRY:
+    Okay, let me change lanes here
+
+[13:51] ALLISON / SPREKER 2:
+    Okay, let me change lanes here
+
+[13:51] JERRY:
+    Okay, let me change lanes here
+
+[13:53] ALLISON / SPREKER 2:
+    after this guy passes us
+
+[13:53] JERRY:
+    after this guy passes us
+
+[13:53] ALLISON / SPREKER 2:
+    after this guy passes us
+
+[13:55] JERRY:
+    just because I don't want to have to
+
+[13:55] ALLISON / SPREKER 2:
+    just because I don't want to have to
+
+[14:16] JERRY:
+    just because I don't want to have to crack windshields again. Exactly. Now it says 50.
+
+[14:19] ALLISON / SPREKER 2:
+    Now it actually may be 50.
+
+[14:19] JERRY:
+    Now it actually may be 50.
+
+[14:19] ALLISON / SPREKER 2:
+    Now it actually may be 50.
+
+[14:21] JERRY:
+    I don't know if we passed a sign though.
+
+[14:21] ALLISON / SPREKER 2:
+    I don't know if we passed a sign though.
+
+[14:21] JERRY:
+    I don't know if we passed a sign though.
+
+[15:29] ALLISON / SPREKER 2:
+    I don't remember. It does change to 50, but I thought it was closer to the light up there. I could be wrong. It's been a while. That was nice. Okay. So, maybe should do it do it now. Do it now.
+
+[15:31] JERRY:
+    Um,
+
+[15:31] ALLISON / SPREKER 2:
+    Um,
+
+[15:31] JERRY:
+    Um,
+
+[15:31] ALLISON / SPREKER 2:
+    doesn't mean
+
+[15:31] JERRY:
+    doesn't mean
+
+[15:31] ALLISON / SPREKER 2:
+    doesn't mean
+
+[15:32] JERRY:
+    you can do it now. Yeah,
+
+[15:32] ALLISON / SPREKER 2:
+    you can do it now. Yeah,
+
+[15:32] JERRY:
+    you can do it now. Yeah,
+
+[15:34] ALLISON / SPREKER 2:
+    but I didn't want to try and take that.
+
+[15:34] JERRY:
+    but I didn't want to try and take that.
+
+[15:34] ALLISON / SPREKER 2:
+    but I didn't want to try and take that.
+
+[17:46] JERRY:
+    Do it now. Yeah, there we go. This will be interesting, too, because this is kind of a an interesting on-ramp here. And we'll see if it can successfully navigate it. It is very timid. There's been plenty of opportunities for it to go. Um, but it hasn't. Okay, let's do it. ramp on the left. Now take the interstate 35 ramp on the left.
+
+[17:47] ALLISON / SPREKER 2:
+    That's not too bad though.
+
+[17:47] JERRY:
+    That's not too bad though.
+
+[17:47] ALLISON / SPREKER 2:
+    That's not too bad though.
+
+[17:50] JERRY:
+    It's not too bad. I mean, it's it's it's
+
+[17:50] ALLISON / SPREKER 2:
+    It's not too bad. I mean, it's it's it's
+
+[17:52] JERRY:
+    It's not too bad. I mean, it's it's it's about as timid as some of the other drivers that were in front of us. So,
+
+[17:55] ALLISON / SPREKER 2:
+    however, I wonder if we had it in the
+
+[17:55] JERRY:
+    however, I wonder if we had it in the
+
+[17:59] ALLISON / SPREKER 2:
+    however, I wonder if we had it in the more aggressive setting if it would
+
+[18:02] JERRY:
+    have taken that differently.
+
+[18:02] ALLISON / SPREKER 2:
+    have taken that differently.
+
+[18:09] JERRY:
+    have taken that differently. I don't know. I also don't drive like that.
+
+[18:10] ALLISON / SPREKER 2:
+    And we're going to let it park for us at
+
+[18:10] JERRY:
+    And we're going to let it park for us at
+
+[18:11] ALLISON / SPREKER 2:
+    And we're going to let it park for us at Target, too, right?
+
+[18:13] JERRY:
+    Yes. That's going to be interesting.
+
+[18:13] ALLISON / SPREKER 2:
+    Yes. That's going to be interesting.
+
+[18:13] JERRY:
+    Yes. That's going to be interesting.
+
+[18:16] ALLISON / SPREKER 2:
+    Yes. Because full disclosure, we've done
+
+[18:16] JERRY:
+    Yes. Because full disclosure, we've done
+
+[18:29] ALLISON / SPREKER 2:
+    Yes. Because full disclosure, we've done a couple of short drives with uh with FSD before we did this test in the you know, the previous couple of days. One of the ones we did was we took it to Walmart and it parked for us and it curbed the wheels.
+
+[18:30] JERRY:
+    That was Yeah, that was
+
+[18:30] ALLISON / SPREKER 2:
+    That was Yeah, that was
+
+[18:30] JERRY:
+    That was Yeah, that was
+
+[18:33] ALLISON / SPREKER 2:
+    it. It chose a very strange parking
+
+[18:33] JERRY:
+    it. It chose a very strange parking
+
+[18:34] ALLISON / SPREKER 2:
+    it. It chose a very strange parking spot.
+
+[18:36] JERRY:
+    Yeah,
+
+[18:36] ALLISON / SPREKER 2:
+    Yeah,
+
+[18:39] JERRY:
+    Yeah, it chose a strange parking spot and then it just like crammed us in.
+
+[18:41] ALLISON / SPREKER 2:
+    Yeah, it was almost like it
+
+[18:41] JERRY:
+    Yeah, it was almost like it
+
+[18:43] ALLISON / SPREKER 2:
+    Yeah, it was almost like it decided at the last second to park.
+
+[18:54] JERRY:
+    Exactly.
+
+[18:57] ALLISON / SPREKER 2:
+    Surprised it doesn't want to. I was
+
+[18:57] JERRY:
+    Surprised it doesn't want to. I was
+
+[19:12] ALLISON / SPREKER 2:
+    Surprised it doesn't want to. I was wondering why cuz it did on the other strip.
+
+[19:14] JERRY:
+    I keep hoping that it will change lanes.
+
+[19:14] ALLISON / SPREKER 2:
+    I keep hoping that it will change lanes.
+
+[19:14] JERRY:
+    I keep hoping that it will change lanes.
+
+[19:16] ALLISON / SPREKER 2:
+    Yeah, it does not want to change lanes.
+
+[19:16] JERRY:
+    Yeah, it does not want to change lanes.
+
+[19:21] ALLISON / SPREKER 2:
+    Yeah, it does not want to change lanes. Again, this may be a factor of the mode we have it in standard
+
+[19:40] JERRY:
+    maybe, but I mean, I'm I'm fine with it. This is just kind of a chill driving mode. I kind of think it's similar to open pilot in that sense is that it's just chill, you know,
+
+[19:43] ALLISON / SPREKER 2:
+    except this isn't chill mode. This is
+
+[19:43] JERRY:
+    except this isn't chill mode. This is
+
+[19:44] ALLISON / SPREKER 2:
+    except this isn't chill mode. This is standard.
+
+[22:29] JERRY:
+    True. Now take exit 463 on the right. Now turn left onto B. Miller Parkway. In 1,00 ft, turn right, then turn right. Now turn right. Now your destination is on the right. Nice. That was a much better parking job than the uh the previous try.
+
+[22:32] ALLISON / SPREKER 2:
+    So, all right. Cool. Well, we're going
+
+[22:32] JERRY:
+    So, all right. Cool. Well, we're going
+
+[22:36] ALLISON / SPREKER 2:
+    So, all right. Cool. Well, we're going to do some shopping here and then Allison is going to take over for the last leg back home
+
+[22:39] JERRY:
+    and then we'll uh we'll score it and see
+
+[22:39] ALLISON / SPREKER 2:
+    and then we'll uh we'll score it and see
+
+[22:41] JERRY:
+    and then we'll uh we'll score it and see how it does. All right. We'll be right back.
+
+[22:44] ALLISON / SPREKER 2:
+    All right.
+
+[22:44] JERRY:
+    All right.
+
+[22:46] ALLISON / SPREKER 2:
+    All right. We're on the last leg of our trip heading home.
+
+[22:47] JERRY:
+    So, let's see.
+
+[22:47] ALLISON / SPREKER 2:
+    So, let's see.
+
+[22:47] JERRY:
+    So, let's see.
+
+[22:48] ALLISON / SPREKER 2:
+    With full self driving. Yep. Let's do
+
+[22:48] JERRY:
+    With full self driving. Yep. Let's do
+
+[23:37] ALLISON / SPREKER 2:
+    With full self driving. Yep. Let's do it. thought that was me. I did notice you on the ray here that it didn't slam on the brakes at any point. It was all always at least pretty smooth.
+
+[23:38] JERRY:
+    Mhm.
+
+[23:38] ALLISON / SPREKER 2:
+    Mhm.
+
+[23:38] JERRY:
+    Mhm.
+
+[23:42] ALLISON / SPREKER 2:
+    It made, you know, weird decisions, but
+
+[23:42] JERRY:
+    It made, you know, weird decisions, but
+
+[23:58] ALLISON / SPREKER 2:
+    It made, you know, weird decisions, but at least it wasn't clunky. I mean, for the most part, it's it's really smooth.
+
+[23:59] JERRY:
+    Yeah,
+
+[23:59] ALLISON / SPREKER 2:
+    Yeah,
+
+[23:59] JERRY:
+    Yeah,
+
+[24:02] ALLISON / SPREKER 2:
+    I'm I'm I'm very impressed with it.
+
+[24:02] JERRY:
+    I'm I'm I'm very impressed with it.
+
+[24:02] ALLISON / SPREKER 2:
+    I'm I'm I'm very impressed with it.
+
+[24:04] JERRY:
+    It's impressive, but is it $8,000
+
+[24:04] ALLISON / SPREKER 2:
+    It's impressive, but is it $8,000
+
+[24:15] JERRY:
+    It's impressive, but is it $8,000 impressive?
+
+[24:17] ALLISON / SPREKER 2:
+    What do you think of the display?
+
+[24:18] JERRY:
+    What do you think of the display?
+
+[24:18] ALLISON / SPREKER 2:
+    What do you think of the display? Cuz this is different.
+
+[24:26] JERRY:
+    Mhm. No, I like it.
+
+[24:30] ALLISON / SPREKER 2:
+    I like how it can see things that I
+
+[24:30] JERRY:
+    I like how it can see things that I
+
+[24:31] ALLISON / SPREKER 2:
+    I like how it can see things that I can't see.
+
+[24:33] JERRY:
+    And it's zoomed out a little bit so you
+
+[24:33] ALLISON / SPREKER 2:
+    And it's zoomed out a little bit so you
+
+[24:58] JERRY:
+    And it's zoomed out a little bit so you can see, you know, what it's seeing coming down the intersections, things like that. So, yeah, everybody likes to go really fast on this road.
+
+[25:00] ALLISON / SPREKER 2:
+    Yeah, the speed limit was 50.
+
+[25:00] JERRY:
+    Yeah, the speed limit was 50.
+
+[25:00] ALLISON / SPREKER 2:
+    Yeah, the speed limit was 50.
+
+[25:02] JERRY:
+    Yeah, we're still in a 50 mph zone.
+
+[25:02] ALLISON / SPREKER 2:
+    Yeah, we're still in a 50 mph zone.
+
+[25:12] JERRY:
+    Yeah, we're still in a 50 mph zone. Technically, it does go up to 60 up here a ahead, but I mean that's it's more people treat it more like a suggestion than a rule.
+
+[25:14] ALLISON / SPREKER 2:
+    Yeah.
+
+[25:14] JERRY:
+    Yeah.
+
+[25:14] ALLISON / SPREKER 2:
+    Yeah.
+
+[25:17] JERRY:
+    The the standard speed on this stretch
+
+[25:17] ALLISON / SPREKER 2:
+    The the standard speed on this stretch
+
+[25:20] JERRY:
+    The the standard speed on this stretch of 380 is 70 mph.
+
+[25:23] ALLISON / SPREKER 2:
+    Yes.
+
+[25:23] JERRY:
+    Yes.
+
+[25:23] ALLISON / SPREKER 2:
+    Yes.
+
+[25:36] JERRY:
+    And we're going 55. So, it would be nice if Tesla let you manually increase the speed while in FSD. Can't do that though.
+
+[25:41] ALLISON / SPREKER 2:
+    Oh, it puts it to hurry,
+
+[25:43] JERRY:
+    which doesn't do much.
+
+[25:43] ALLISON / SPREKER 2:
+    which doesn't do much.
+
+[25:43] JERRY:
+    which doesn't do much.
+
+[25:47] ALLISON / SPREKER 2:
+    I mean, it is going faster.
+
+[25:49] JERRY:
+    Two miles faster.
+
+[25:49] ALLISON / SPREKER 2:
+    Two miles faster.
+
+[25:49] JERRY:
+    Two miles faster.
+
+[25:50] ALLISON / SPREKER 2:
+    Yeah. I don't I don't know what hurry is
+
+[25:50] JERRY:
+    Yeah. I don't I don't know what hurry is
+
+[26:01] ALLISON / SPREKER 2:
+    Yeah. I don't I don't know what hurry is going to do. I'm always curious how it handles these turns cuz
+
+[26:03] JERRY:
+    is it going to get like is it going to
+
+[26:03] ALLISON / SPREKER 2:
+    is it going to get like is it going to
+
+[26:06] JERRY:
+    is it going to get like is it going to get over to this? It doesn't look like it is
+
+[26:09] ALLISON / SPREKER 2:
+    but honestly I don't sometimes I don't
+
+[26:09] JERRY:
+    but honestly I don't sometimes I don't
+
+[26:10] ALLISON / SPREKER 2:
+    but honestly I don't sometimes I don't see people do that either.
+
+[26:19] JERRY:
+    Yeah. No, it's true.
+
+[26:21] ALLISON / SPREKER 2:
+    Now the Yeah. Speed limit on this
+
+[26:21] JERRY:
+    Now the Yeah. Speed limit on this
+
+[26:24] ALLISON / SPREKER 2:
+    Now the Yeah. Speed limit on this section is 35. Oh,
+
+[26:25] JERRY:
+    now 625.
+
+[26:25] ALLISON / SPREKER 2:
+    now 625.
+
+[26:25] JERRY:
+    now 625.
+
+[26:27] ALLISON / SPREKER 2:
+    I'm going to put it back to standard.
+
+[26:27] JERRY:
+    I'm going to put it back to standard.
+
+[26:27] ALLISON / SPREKER 2:
+    I'm going to put it back to standard.
+
+[26:29] JERRY:
+    Yeah.
+
+[26:29] ALLISON / SPREKER 2:
+    Yeah.
+
+[26:38] JERRY:
+    Yeah. So, it must be pulling speed limits from maps then because there's no signs on this stretch. So, it's getting it from somewhere.
+
+[26:43] ALLISON / SPREKER 2:
+    Yeah.
+
+[26:45] JERRY:
+    And it is 35 on this road.
+
+[26:45] ALLISON / SPREKER 2:
+    And it is 35 on this road.
+
+[26:45] JERRY:
+    And it is 35 on this road.
+
+[26:46] ALLISON / SPREKER 2:
+    Should be 35.
+
+[26:46] JERRY:
+    Should be 35.
+
+[26:46] ALLISON / SPREKER 2:
+    Should be 35.
+
+[26:47] JERRY:
+    Yeah.
+
+[26:47] ALLISON / SPREKER 2:
+    Yeah.
+
+[26:47] JERRY:
+    Yeah.
+
+[26:49] ALLISON / SPREKER 2:
+    But it says 30. So,
+
+[26:49] JERRY:
+    But it says 30. So,
+
+[26:49] ALLISON / SPREKER 2:
+    But it says 30. So,
+
+[26:52] JERRY:
+    Oh. That may be an issue with where it's
+
+[26:52] ALLISON / SPREKER 2:
+    Oh. That may be an issue with where it's
+
+[26:54] JERRY:
+    Oh. That may be an issue with where it's pulling at whatever maps.
+
+[26:57] ALLISON / SPREKER 2:
+    I mean, it is possible it's 30 and I am
+
+[26:57] JERRY:
+    I mean, it is possible it's 30 and I am
+
+[26:57] ALLISON / SPREKER 2:
+    I mean, it is possible it's 30 and I am
+
+[26:59] JERRY:
+    I'm pretty sure it's 35.
+
+[26:59] ALLISON / SPREKER 2:
+    I'm pretty sure it's 35.
+
+[26:59] JERRY:
+    I'm pretty sure it's 35.
+
+[27:09] ALLISON / SPREKER 2:
+    The sign's right there. So 35 is 35.
+
+[27:11] JERRY:
+    Yeah. So it's an issue with wherever
+
+[27:11] ALLISON / SPREKER 2:
+    Yeah. So it's an issue with wherever
+
+[29:09] JERRY:
+    Yeah. So it's an issue with wherever whatever maps it's using to pull the speed limit data from. And I know from because I've open pilot uses open street maps or sunny pilot uses open street maps and that is wrong on a lot of these roads. So it's very likely that's where it's from. All right, we are almost home. We'll be right back after we've parked and we'll do some scoring. See you in a second. So that was the drive. We are now going to give full self-driving version 14.2.1 I think is the version we're on and that we just tested. Uh our final score, we're going to score it in six areas. Driving performance, ease of use, comfort and smoothness, driver monitoring, interface and visualization, and cost and flexibility. Each area is worth a total of five points for a total potential total of 30 points. So Ally, I'll let you go ahead and score first and then take your sheet and then I'll do right after you. Okay. All right. Okay. So, now we're going to have a little discussion on our experience with Tesla full self-driving. We are nice EV Silverado there. Um, we are on Tesla's full self-driving version 14.2.1. I think that's the latest version. We are currently using it right now to drop off our daughter at a birthday party. But let's talk about our experience. Um, as I mentioned earlier on, we have actually used it over the past couple days to do a couple of short drives. This is our longest drive using full self-driving. But what was what are your thoughts about it, Allison?
+
+[29:13] ALLISON / SPREKER 2:
+    Um, I actually I think it did overall
+
+[29:13] JERRY:
+    Um, I actually I think it did overall
+
+[29:22] ALLISON / SPREKER 2:
+    Um, I actually I think it did overall pretty well. Like it there were a few hiccups as we let it try to navigate on its own for a little bit.
+
+[29:24] JERRY:
+    Yeah. So, obviously that's not the
+
+[29:24] ALLISON / SPREKER 2:
+    Yeah. So, obviously that's not the
+
+[29:38] JERRY:
+    Yeah. So, obviously that's not the that's not its strongest suit. It's not the not the most standard use case for it, but still I would have expected it to perform a little bit better and have a little bit better logic in terms of like not choosing its own path. Like I don't know why it
+
+[29:41] ALLISON / SPREKER 2:
+    Yeah. without understanding
+
+[29:41] JERRY:
+    Yeah. without understanding
+
+[29:47] ALLISON / SPREKER 2:
+    Yeah. without understanding what the basis for the choices that it made. Like I don't
+
+[29:48] JERRY:
+    Yeah. Why is it even making choices?
+
+[29:48] ALLISON / SPREKER 2:
+    Yeah. Why is it even making choices?
+
+[29:49] JERRY:
+    Yeah. Why is it even making choices? Like that's that's my
+
+[29:52] ALLISON / SPREKER 2:
+    like how does it how did that come up?
+
+[29:52] JERRY:
+    like how does it how did that come up?
+
+[29:52] ALLISON / SPREKER 2:
+    like how does it how did that come up?
+
+[29:53] JERRY:
+    Yeah. I don't know why it's choosing to
+
+[29:54] ALLISON / SPREKER 2:
+    Yeah. I don't know why it's choosing to
+
+[30:08] JERRY:
+    Yeah. I don't know why it's choosing to turn left or right when it's coming to an intersection without, you know, waiting for input from the driver first, but as I mentioned that I know that's not the standard use case. Most people are using it by putting entering a destination, so I'm not going to fault it too much there. Um,
+
+[30:10] ALLISON / SPREKER 2:
+    the drive itself was really
+
+[30:10] JERRY:
+    the drive itself was really
+
+[30:10] ALLISON / SPREKER 2:
+    the drive itself was really
+
+[30:12] JERRY:
+    Yeah, exactly. The drive itself is
+
+[30:12] ALLISON / SPREKER 2:
+    Yeah, exactly. The drive itself is
+
+[30:26] JERRY:
+    Yeah, exactly. The drive itself is pretty impressive. Uh, it's handled almost everything that was thrown at it uh pretty nicely. There were a few hiccups, though. Um, as we mentioned, one of the first time we took it to drive to Walmart and it did its auto parking,
+
+[30:29] ALLISON / SPREKER 2:
+    it yeah, it curbed itself. It curbed
+
+[30:29] JERRY:
+    it yeah, it curbed itself. It curbed
+
+[30:36] ALLISON / SPREKER 2:
+    it yeah, it curbed itself. It curbed itself on the curb when it, you know, pulled into the parking space, which it did very abruptly. It wasn't smooth at all.
+
+[30:36] JERRY:
+    Right.
+
+[30:36] ALLISON / SPREKER 2:
+    Right.
+
+[30:36] JERRY:
+    Right.
+
+[30:39] ALLISON / SPREKER 2:
+    Um, and then, uh, coming home from
+
+[30:39] JERRY:
+    Um, and then, uh, coming home from
+
+[30:50] ALLISON / SPREKER 2:
+    Um, and then, uh, coming home from another drive, it was a little bit windy. Some some leaves were blowing across the street and, uh, it stopped for the leaves to make sure the leaves made it across the street. Okay, I guess. Um,
+
+[30:51] JERRY:
+    it breaks for leaves.
+
+[30:51] ALLISON / SPREKER 2:
+    it breaks for leaves.
+
+[30:51] JERRY:
+    it breaks for leaves.
+
+[30:53] ALLISON / SPREKER 2:
+    It breaks for leaves. Yeah. Which I've
+
+[30:53] JERRY:
+    It breaks for leaves. Yeah. Which I've
+
+[30:55] ALLISON / SPREKER 2:
+    It breaks for leaves. Yeah. Which I've heard from other people as well. It it that it does that.
+
+[30:58] JERRY:
+    I mean, I'm I that gives me hope it'll
+
+[30:58] ALLISON / SPREKER 2:
+    I mean, I'm I that gives me hope it'll
+
+[30:59] JERRY:
+    I mean, I'm I that gives me hope it'll break for animals, too.
+
+[31:02] ALLISON / SPREKER 2:
+    Yes. But yeah, but I don't know if it
+
+[31:02] JERRY:
+    Yes. But yeah, but I don't know if it
+
+[31:35] ALLISON / SPREKER 2:
+    Yes. But yeah, but I don't know if it needs to break for leaves. And that may be something that you can train the model can be trained for in the future, but it was just a little bit abrupt in and not something I like about it. Um, but anyways, let's talk about the ratings. So, as I mentioned, we are rating uh full self-driving and we also did open pilot and autopilot in a previous video on six categories. Each category is worth a maximum of five points for a total of 30 points potentially. So, let's start. First category is driving performance. What did you rate it?
+
+[31:36] JERRY:
+    I actually gave it a three.
+
+[31:36] ALLISON / SPREKER 2:
+    I actually gave it a three.
+
+[31:36] JERRY:
+    I actually gave it a three.
+
+[31:38] ALLISON / SPREKER 2:
+    Really? Okay. Why did you give it a
+
+[31:38] JERRY:
+    Really? Okay. Why did you give it a
+
+[31:38] ALLISON / SPREKER 2:
+    Really? Okay. Why did you give it a three?
+
+[31:41] JERRY:
+    I gave it a three because of the initial
+
+[31:41] ALLISON / SPREKER 2:
+    I gave it a three because of the initial
+
+[31:42] JERRY:
+    I gave it a three because of the initial drive that we had.
+
+[31:47] ALLISON / SPREKER 2:
+    Uhhuh. and that it was
+
+[31:47] JERRY:
+    Uhhuh. and that it was
+
+[32:00] ALLISON / SPREKER 2:
+    Uhhuh. and that it was trying to make weird turns and like when it started to go right and you turn the turn signal to go left and it continued to try to go right, you know.
+
+[32:00] JERRY:
+    Yeah.
+
+[32:00] ALLISON / SPREKER 2:
+    Yeah.
+
+[32:00] JERRY:
+    Yeah.
+
+[32:03] ALLISON / SPREKER 2:
+    Th those kind of things. So that's why I
+
+[32:03] JERRY:
+    Th those kind of things. So that's why I
+
+[32:04] ALLISON / SPREKER 2:
+    Th those kind of things. So that's why I marked it a three.
+
+[32:07] JERRY:
+    Okay. Well, I marked it a four for the
+
+[32:07] ALLISON / SPREKER 2:
+    Okay. Well, I marked it a four for the
+
+[32:25] JERRY:
+    Okay. Well, I marked it a four for the same reason. Like it's not perfect, right? So I can't give it a five. But by the same token, as I mentioned, I know that's not the standard use case for it. So, I feel like I can't mark it off that much, but I didn't want to give it a perfect score. Plus, the other things like the curbing the wheel when it parked and
+
+[32:27] ALLISON / SPREKER 2:
+    and the leaf thing, and it's just it's
+
+[32:27] JERRY:
+    and the leaf thing, and it's just it's
+
+[32:28] ALLISON / SPREKER 2:
+    and the leaf thing, and it's just it's not perfect,
+
+[32:29] JERRY:
+    right? So, there's no way I can give it
+
+[32:30] ALLISON / SPREKER 2:
+    right? So, there's no way I can give it
+
+[32:38] JERRY:
+    right? So, there's no way I can give it a five. A four I felt comfortable giving it. So, that's that's kind of where I landed on that. The next category is ease of use. What did you give it?
+
+[32:41] ALLISON / SPREKER 2:
+    I gave it a five. I found that it's
+
+[32:41] JERRY:
+    I gave it a five. I found that it's
+
+[32:50] ALLISON / SPREKER 2:
+    I gave it a five. I found that it's very easy to use it and you can see it on the screen when you're in it. You can change the modes
+
+[32:52] JERRY:
+    pretty easily, you know, going from
+
+[32:52] ALLISON / SPREKER 2:
+    pretty easily, you know, going from
+
+[32:54] JERRY:
+    pretty easily, you know, going from standard to Mad Max like we did.
+
+[32:55] ALLISON / SPREKER 2:
+    Yeah,
+
+[32:55] JERRY:
+    Yeah,
+
+[32:55] ALLISON / SPREKER 2:
+    Yeah,
+
+[33:00] JERRY:
+    that's uh like it's not
+
+[33:00] ALLISON / SPREKER 2:
+    that's uh like it's not
+
+[33:03] JERRY:
+    that's uh like it's not uh difficult to figure out how to use FSD.
+
+[33:05] ALLISON / SPREKER 2:
+    Yeah, totally. I agree. I also gave it a
+
+[33:05] JERRY:
+    Yeah, totally. I agree. I also gave it a
+
+[33:26] ALLISON / SPREKER 2:
+    Yeah, totally. I agree. I also gave it a five. Super easy to use. I didn't find anything about it like unintuitive other than the decisions it was making. That's the driving performance. That's not really exactly, you know, ease of ease of use. Um, so yeah, totally. I love the way it works. Very easy to use. Gave it a five. All right. So, next category is comfort and smoothness. What did you give it there?
+
+[33:28] JERRY:
+    I gave it a four.
+
+[33:28] ALLISON / SPREKER 2:
+    I gave it a four.
+
+[33:28] JERRY:
+    I gave it a four.
+
+[33:33] ALLISON / SPREKER 2:
+    Um, it wasn't that jerky. It um I found
+
+[33:33] JERRY:
+    Um, it wasn't that jerky. It um I found
+
+[33:51] ALLISON / SPREKER 2:
+    Um, it wasn't that jerky. It um I found that it for the most part it was very smooth. I didn't want to give it a five just because of things like with the leaves and some of that when it when you're not expecting to have to stop and you're like what is going on?
+
+[33:54] JERRY:
+    Sure. Yeah. I agree with you.
+
+[33:54] ALLISON / SPREKER 2:
+    Sure. Yeah. I agree with you.
+
+[34:00] JERRY:
+    Sure. Yeah. I agree with you. Although I kind of put that under driving performance. So this is kind of one of those weird categories. So, I don't know. Does that fall under driving performance or comfort and smoothness?
+
+[34:01] ALLISON / SPREKER 2:
+    I mean, that could be I was just
+
+[34:01] JERRY:
+    I mean, that could be I was just
+
+[34:06] ALLISON / SPREKER 2:
+    I mean, that could be I was just thinking of, you know, the sudden stops, right? And
+
+[34:07] JERRY:
+    but it for the most part it was very
+
+[34:07] ALLISON / SPREKER 2:
+    but it for the most part it was very
+
+[34:08] JERRY:
+    but it for the most part it was very good.
+
+[34:09] ALLISON / SPREKER 2:
+    Okay. So, you gave it a four in comfort
+
+[34:09] JERRY:
+    Okay. So, you gave it a four in comfort
+
+[34:10] ALLISON / SPREKER 2:
+    Okay. So, you gave it a four in comfort and smoothness. Yeah.
+
+[34:11] JERRY:
+    I gave it a five in comfort and
+
+[34:11] ALLISON / SPREKER 2:
+    I gave it a five in comfort and
+
+[34:51] JERRY:
+    I gave it a five in comfort and smoothness uh because I think it performs really well. I've been actually very impressed with some of the uh some of the more challenging areas of driving which it handled pretty well. And again, our experience with it hasn't been very long, like only a couple of days and not a lot of miles driving it. So, you know, obviously some of these scores could change potentially like as we use it more. Um, but yeah, so I gave it a five on that. Next score is driver monitoring. So, we didn't talk about this in the video very much, but driver monitoring with FSD, as I understand it, you is using uh the camera, visual c, right? So, it's making sure that my eyes are paying attention to the road. And like I when we were using it, I didn't get any as far as I could tell.
+
+[34:53] ALLISON / SPREKER 2:
+    So I gave it a five because I was like
+
+[34:53] JERRY:
+    So I gave it a five because I was like
+
+[34:56] ALLISON / SPREKER 2:
+    So I gave it a five because I was like it's not telling me it's not harassing me at all.
+
+[34:56] JERRY:
+    Exactly.
+
+[34:56] ALLISON / SPREKER 2:
+    Exactly.
+
+[34:56] JERRY:
+    Exactly.
+
+[34:58] ALLISON / SPREKER 2:
+    Um I didn't know that when you turn it
+
+[34:58] JERRY:
+    Um I didn't know that when you turn it
+
+[35:02] ALLISON / SPREKER 2:
+    Um I didn't know that when you turn it on, it says keep your eyes on the road. That's all it says.
+
+[35:03] JERRY:
+    Okay. Yeah. Cuz I didn't notice any
+
+[35:04] ALLISON / SPREKER 2:
+    Okay. Yeah. Cuz I didn't notice any
+
+[35:06] JERRY:
+    Okay. Yeah. Cuz I didn't notice any notifications on there that like you're not paying attention like
+
+[35:09] ALLISON / SPREKER 2:
+    Yeah. The only time it flashed at you
+
+[35:09] JERRY:
+    Yeah. The only time it flashed at you
+
+[35:15] ALLISON / SPREKER 2:
+    Yeah. The only time it flashed at you was and that had to do with the performance because you were having to put your you were having to press on the gas pedal.
+
+[35:17] JERRY:
+    Yeah. I had to manually override. Yeah.
+
+[35:17] ALLISON / SPREKER 2:
+    Yeah. I had to manually override. Yeah.
+
+[35:19] JERRY:
+    Yeah. I had to manually override. Yeah. and it didn't like that, but
+
+[35:23] ALLISON / SPREKER 2:
+    um I didn't ding it for that.
+
+[35:23] JERRY:
+    um I didn't ding it for that.
+
+[35:23] ALLISON / SPREKER 2:
+    um I didn't ding it for that.
+
+[35:25] JERRY:
+    Yeah. So, I gave it a five as well. Uh
+
+[35:25] ALLISON / SPREKER 2:
+    Yeah. So, I gave it a five as well. Uh
+
+[35:36] JERRY:
+    Yeah. So, I gave it a five as well. Uh driver monitoring was really impressive. And again, I like that it's a hands-free system. I like that. Uh unlike autopilot, you don't have to keep, you know,
+
+[35:37] ALLISON / SPREKER 2:
+    jiggling the wheel.
+
+[35:37] JERRY:
+    jiggling the wheel.
+
+[35:37] ALLISON / SPREKER 2:
+    jiggling the wheel.
+
+[35:39] JERRY:
+    So, huge improvement in that sense. So,
+
+[35:39] ALLISON / SPREKER 2:
+    So, huge improvement in that sense. So,
+
+[35:45] JERRY:
+    So, huge improvement in that sense. So, yes, I gave it a five as well. Next category is interface and visualization.
+
+[35:47] ALLISON / SPREKER 2:
+    I gave that a five as well. I love the
+
+[35:47] JERRY:
+    I gave that a five as well. I love the
+
+[35:48] ALLISON / SPREKER 2:
+    I gave that a five as well. I love the display.
+
+[35:48] JERRY:
+    Yeah,
+
+[35:48] ALLISON / SPREKER 2:
+    Yeah,
+
+[35:48] JERRY:
+    Yeah,
+
+[35:51] ALLISON / SPREKER 2:
+    I really do. I like how when you're
+
+[35:52] JERRY:
+    I really do. I like how when you're
+
+[35:52] ALLISON / SPREKER 2:
+    I really do. I like how when you're
+
+[35:54] JERRY:
+    in traffic and you're heading to a stop
+
+[35:54] ALLISON / SPREKER 2:
+    in traffic and you're heading to a stop
+
+[36:06] JERRY:
+    in traffic and you're heading to a stop sign, how it zooms out and gives you a much bigger display of what's going on and you can see the cross traffic and all of that. I really do like that.
+
+[36:08] ALLISON / SPREKER 2:
+    I totally agree. Yeah, the
+
+[36:08] JERRY:
+    I totally agree. Yeah, the
+
+[36:47] ALLISON / SPREKER 2:
+    I totally agree. Yeah, the visualization is spoton. You can see what's going on around you. You can see the cars behind you when you're coming up to come coming up to the intersection like you said. It zooms out and you can see and you it's not about what you can see. I think it's more about like giving you confidence about what the Tesla can see. Yes. Right. So the fact that it can zoom out and it's showing you how far out it can see cross traffic coming from. There was the when I was driving back, there was a part where the way the curve was, we were trying to turn out into a curved road. And so I personally could not see the cars coming from over here. Yeah.
+
+[36:50] JERRY:
+    Because of my things that were blocking
+
+[36:50] ALLISON / SPREKER 2:
+    Because of my things that were blocking
+
+[36:54] JERRY:
+    Because of my things that were blocking me, but I could tell on that it could still see what was coming.
+
+[36:56] ALLISON / SPREKER 2:
+    Absolutely. Yes. So I gave it a five as
+
+[36:56] JERRY:
+    Absolutely. Yes. So I gave it a five as
+
+[37:02] ALLISON / SPREKER 2:
+    Absolutely. Yes. So I gave it a five as well. We both gave that a five. This is the category that I think is going to hurt it. All right.
+
+[37:04] JERRY:
+    The uh this category is cost and
+
+[37:04] ALLISON / SPREKER 2:
+    The uh this category is cost and
+
+[37:06] JERRY:
+    The uh this category is cost and flexibility. What did you give it?
+
+[37:07] ALLISON / SPREKER 2:
+    I gave it a two.
+
+[37:07] JERRY:
+    I gave it a two.
+
+[37:07] ALLISON / SPREKER 2:
+    I gave it a two.
+
+[37:09] JERRY:
+    A two. Okay.
+
+[37:09] ALLISON / SPREKER 2:
+    A two. Okay.
+
+[37:09] JERRY:
+    A two. Okay.
+
+[37:10] ALLISON / SPREKER 2:
+    Tell me why.
+
+[37:10] JERRY:
+    Tell me why.
+
+[37:10] ALLISON / SPREKER 2:
+    Tell me why.
+
+[37:12] JERRY:
+    Well, because it's expensive.
+
+[37:12] ALLISON / SPREKER 2:
+    Well, because it's expensive.
+
+[37:12] JERRY:
+    Well, because it's expensive.
+
+[37:13] ALLISON / SPREKER 2:
+    It is. Yes,
+
+[37:13] JERRY:
+    It is. Yes,
+
+[37:13] ALLISON / SPREKER 2:
+    It is. Yes,
+
+[37:16] JERRY:
+    it is expensive. Now, I will say that
+
+[37:16] ALLISON / SPREKER 2:
+    it is expensive. Now, I will say that
+
+[37:23] JERRY:
+    it is expensive. Now, I will say that for me, because I have auto steer, if I wanted to buy FSD, it would only cost me about $3,000.
+
+[37:25] ALLISON / SPREKER 2:
+    Yeah. Okay. Let's let's let's table that
+
+[37:25] JERRY:
+    Yeah. Okay. Let's let's let's table that
+
+[37:32] ALLISON / SPREKER 2:
+    Yeah. Okay. Let's let's let's table that because I want to talk about that afterwards. So, let's just talk about how much it costs for somebody coming in fresh. Yeah. $8,000.
+
+[37:35] JERRY:
+    And that's a lot
+
+[37:35] ALLISON / SPREKER 2:
+    And that's a lot
+
+[37:35] JERRY:
+    And that's a lot of money.
+
+[37:37] ALLISON / SPREKER 2:
+    It is. It's a lot. Especially cuz we
+
+[37:37] JERRY:
+    It is. It's a lot. Especially cuz we
+
+[39:36] ALLISON / SPREKER 2:
+    It is. It's a lot. Especially cuz we can't look at this in a vacuum. There are a lot of competitors out there. Now, obviously, not just like FSD. FSD is still the most sophisticated best ADAS system out there, undisputed. I totally admit that. But there are competitors that are I would say in a in a stage where they're good enough where the increases you get from FSD has diminishing returns. And what I mean about that, and I'll use the autonomous cannonball run records as an example, Open Pilot has an autonomous semi-autonomous cannonball run record of 98.4% 4% autonomy versus Tesla's record for that same cannonball run is 98.5 two 98.52. So between the two there's a.12% difference. Now in terms of price there's a huge difference. Now Open Pilot you're you can get comma and uh and the harness to connect it to your car for about $1,100. FSD is $8,000. So, is that 0.12% difference worth an extra $7,000 is what you kind of have to ask yourself. Obviously, there's some other features like parking, but I would still consider those benefits part of that like last 250 ft. And and what I mean by that is both of these systems are great for highway driving. Like hands off, you don't have to do anything. Not a lot of disengagements. It's that last 250 ft when you get to the store, you know, driving through the parking lot and FSD is going to park for you. Is that last 250 ft and that last.12% autonomy worth an extra $7,000? And to me, it's not. Anyway, so you gave it a two.
+
+[39:37] JERRY:
+    Yeah,
+
+[39:37] ALLISON / SPREKER 2:
+    Yeah,
+
+[39:37] JERRY:
+    Yeah,
+
+[39:39] ALLISON / SPREKER 2:
+    I gave it a three. I guess I was I was a
+
+[39:39] JERRY:
+    I gave it a three. I guess I was I was a
+
+[39:47] ALLISON / SPREKER 2:
+    I gave it a three. I guess I was I was a little bit more generous. It's not just the price, it's the flexibility. flexibility is part of that where you if you want FSD you have to have a Tesla
+
+[39:50] JERRY:
+    but okay but here's the other thing
+
+[39:50] ALLISON / SPREKER 2:
+    but okay but here's the other thing
+
+[39:50] JERRY:
+    but okay but here's the other thing
+
+[39:51] ALLISON / SPREKER 2:
+    y
+
+[39:51] JERRY:
+    y
+
+[39:51] ALLISON / SPREKER 2:
+    y
+
+[39:55] JERRY:
+    um one of the things I don't like and I
+
+[39:55] ALLISON / SPREKER 2:
+    um one of the things I don't like and I
+
+[40:03] JERRY:
+    um one of the things I don't like and I think FSD is fine um I do have the auto steer which you know I
+
+[40:07] ALLISON / SPREKER 2:
+    you mean autopilot okay I have that for
+
+[40:07] JERRY:
+    you mean autopilot okay I have that for
+
+[40:16] ALLISON / SPREKER 2:
+    you mean autopilot okay I have that for me to use this I have to choose Like I have enhanced autopilot and right now this is a trial, right? Right.
+
+[40:19] JERRY:
+    I have to choose. I can't like I can't
+
+[40:19] ALLISON / SPREKER 2:
+    I have to choose. I can't like I can't
+
+[40:20] JERRY:
+    I have to choose. I can't like I can't do both.
+
+[40:23] ALLISON / SPREKER 2:
+    So I had to switch this on.
+
+[40:23] JERRY:
+    So I had to switch this on.
+
+[40:23] ALLISON / SPREKER 2:
+    So I had to switch this on.
+
+[40:27] JERRY:
+    So for example, when I'm driving
+
+[40:27] ALLISON / SPREKER 2:
+    So for example, when I'm driving
+
+[40:36] JERRY:
+    So for example, when I'm driving because I drive every morning, when I when I'm driving, I try to engage the enhanced autopilot. Well, I can't do that because if I pull, it's going to
+
+[40:38] ALLISON / SPREKER 2:
+    right. You have to you actually have to
+
+[40:38] JERRY:
+    right. You have to you actually have to
+
+[40:47] ALLISON / SPREKER 2:
+    right. You have to you actually have to toggle FSD off in the settings. You can't just choose easily at least between enhanced autopilot and FSD. I get what you're saying. Yeah.
+
+[40:50] JERRY:
+    And I like enhanced autopilot for the
+
+[40:50] ALLISON / SPREKER 2:
+    And I like enhanced autopilot for the
+
+[40:51] JERRY:
+    And I like enhanced autopilot for the most part.
+
+[40:53] ALLISON / SPREKER 2:
+    Yeah. Although I again I don't know if
+
+[40:53] JERRY:
+    Yeah. Although I again I don't know if
+
+[40:58] ALLISON / SPREKER 2:
+    Yeah. Although I again I don't know if it was worth the $6,000 but we didn't know that at the time. Right. We weren't
+
+[41:00] JERRY:
+    and we didn't have other options at the
+
+[41:00] ALLISON / SPREKER 2:
+    and we didn't have other options at the
+
+[41:00] JERRY:
+    and we didn't have other options at the time.
+
+[41:02] ALLISON / SPREKER 2:
+    There were other options. I mean comma
+
+[41:02] JERRY:
+    There were other options. I mean comma
+
+[41:04] ALLISON / SPREKER 2:
+    There were other options. I mean comma was out there. We just didn't know about it.
+
+[41:05] JERRY:
+    Right. I didn't.
+
+[41:05] ALLISON / SPREKER 2:
+    Right. I didn't.
+
+[41:05] JERRY:
+    Right. I didn't.
+
+[41:07] ALLISON / SPREKER 2:
+    And had we known about it maybe we would
+
+[41:07] JERRY:
+    And had we known about it maybe we would
+
+[41:13] ALLISON / SPREKER 2:
+    And had we known about it maybe we would have got that gotten that instead. So you rate, you gave it a two, I gave it a three. What's your total score?
+
+[41:14] JERRY:
+    24.
+
+[41:14] ALLISON / SPREKER 2:
+    24.
+
+[41:14] JERRY:
+    24.
+
+[41:17] ALLISON / SPREKER 2:
+    My total score is 27 for an average of
+
+[41:17] JERRY:
+    My total score is 27 for an average of
+
+[41:44] ALLISON / SPREKER 2:
+    My total score is 27 for an average of 25.5, which actually puts it below open pilot, which surprises me. The scores that we previously scored, enhanced autopilot and open pilot, enhanced autopilot scored a 21.5 and Open Pilot scored a 26.5. FSD is coming in below that by one point at a 25.5. And I think that's going to piss a lot of people off. Can't wait to see the comments. But what really hurts it is the cost. It's
+
+[41:47] JERRY:
+    It's not worth $8,000. It's crazy that
+
+[41:47] ALLISON / SPREKER 2:
+    It's not worth $8,000. It's crazy that
+
+[41:55] JERRY:
+    It's not worth $8,000. It's crazy that they're charging $8,000. But so, but here's my question for you because you are we've already paid the $6,000 for enhanced autopilot.
+
+[41:56] ALLISON / SPREKER 2:
+    Oh, that's true.
+
+[41:56] JERRY:
+    Oh, that's true.
+
+[41:56] ALLISON / SPREKER 2:
+    Oh, that's true.
+
+[42:01] JERRY:
+    The question you have before you now is
+
+[42:01] ALLISON / SPREKER 2:
+    The question you have before you now is
+
+[42:06] JERRY:
+    The question you have before you now is we scored Open Pilot at 26.5. We scored FSD at 25.5.
+
+[42:08] ALLISON / SPREKER 2:
+    Yeah. If we were to put open pilot in
+
+[42:08] JERRY:
+    Yeah. If we were to put open pilot in
+
+[42:24] ALLISON / SPREKER 2:
+    Yeah. If we were to put open pilot in this car, it would it would cost us maybe like 1,500 bucks. For us to upgrade to FSD, it would be $2,000. So, a difference of about $500. With that in mind, would you rather have a comma with Open Pilot in here or would you rather do FSD?
+
+[42:28] JERRY:
+    All right. So, are we asking
+
+[42:28] ALLISON / SPREKER 2:
+    All right. So, are we asking
+
+[42:28] JERRY:
+    All right. So, are we asking
+
+[42:30] ALLISON / SPREKER 2:
+    I don't actually have to do this, right?
+
+[42:30] JERRY:
+    I don't actually have to do this, right?
+
+[42:30] ALLISON / SPREKER 2:
+    I don't actually have to do this, right?
+
+[42:34] JERRY:
+    Well, we might, but we're but right
+
+[42:34] ALLISON / SPREKER 2:
+    Well, we might, but we're but right
+
+[42:36] JERRY:
+    Well, we might, but we're but right now we're talking hypothetically. Hypothetically,
+
+[42:38] ALLISON / SPREKER 2:
+    yes.
+
+[42:38] JERRY:
+    yes.
+
+[42:38] ALLISON / SPREKER 2:
+    yes.
+
+[42:40] JERRY:
+    If I am being completely honest, and I
+
+[42:40] ALLISON / SPREKER 2:
+    If I am being completely honest, and I
+
+[42:51] JERRY:
+    If I am being completely honest, and I know we've done all of the scoring and everything, if I am being completely honest, if I had a choice and we were really going to do it, I would actually go with that.
+
+[42:52] ALLISON / SPREKER 2:
+    Yeah. And actually, I kind I agree with
+
+[42:52] JERRY:
+    Yeah. And actually, I kind I agree with
+
+[42:58] ALLISON / SPREKER 2:
+    Yeah. And actually, I kind I agree with you, and there are a couple reasons why. A, it's more it's more integrated into the car.
+
+[43:02] JERRY:
+    Yes. Um, and I totally get that one
+
+[43:02] ALLISON / SPREKER 2:
+    Yes. Um, and I totally get that one
+
+[43:28] JERRY:
+    Yes. Um, and I totally get that one of the drawbacks of the Kama is it's it's a another device you've got to install. It's something up on the windshield. Even though the new KA 4 is super tiny, one of the things you get with FSD is this nice display. And that's a big part of it. And since you already have the Tesla, the fact that it's not as flexible because you can't have it in another car, that's kind of a moot point. So, I totally agree. Yes. for your for or for our particular situation,
+
+[43:30] ALLISON / SPREKER 2:
+    it would sense it makes more sense to
+
+[43:30] JERRY:
+    it would sense it makes more sense to
+
+[43:34] ALLISON / SPREKER 2:
+    it would sense it makes more sense to spend that extra $500 and get FSD in this thing,
+
+[43:36] JERRY:
+    even though it's a bitter pill to
+
+[43:36] ALLISON / SPREKER 2:
+    even though it's a bitter pill to
+
+[43:39] JERRY:
+    even though it's a bitter pill to swallow that we've now paid $8,000 for that.
+
+[43:43] ALLISON / SPREKER 2:
+    Okay, but here's the follow-up question.
+
+[43:43] JERRY:
+    Okay, but here's the follow-up question.
+
+[43:50] ALLISON / SPREKER 2:
+    Okay, but here's the follow-up question. If we had never bought enhanced autopilot and now we're looking at $8,000 for MSD or $1,500 for open,
+
+[43:52] JERRY:
+    I would go with uh Open Pilot.
+
+[43:52] ALLISON / SPREKER 2:
+    I would go with uh Open Pilot.
+
+[43:52] JERRY:
+    I would go with uh Open Pilot.
+
+[43:54] ALLISON / SPREKER 2:
+    Okay, good. You're not insane.
+
+[43:54] JERRY:
+    Okay, good. You're not insane.
+
+[43:54] ALLISON / SPREKER 2:
+    Okay, good. You're not insane.
+
+[43:55] JERRY:
+    I'm not insane.
+
+[43:55] ALLISON / SPREKER 2:
+    I'm not insane.
+
+[43:55] JERRY:
+    I'm not insane.
+
+[43:56] ALLISON / SPREKER 2:
+    It's glad to know that my wife is not
+
+[43:56] JERRY:
+    It's glad to know that my wife is not
+
+[44:03] ALLISON / SPREKER 2:
+    It's glad to know that my wife is not insane. Um, yes. If if we were starting fresh, I would definitely go for open pilot 4.
+
+[44:05] JERRY:
+    I would like to mention
+
+[44:05] ALLISON / SPREKER 2:
+    I would like to mention
+
+[44:05] JERRY:
+    I would like to mention
+
+[44:08] ALLISON / SPREKER 2:
+    that when I bought this car, I had no
+
+[44:08] JERRY:
+    that when I bought this car, I had no
+
+[44:09] ALLISON / SPREKER 2:
+    that when I bought this car, I had no idea about open pilot. Yeah, neither.
+
+[44:12] JERRY:
+    I didn't know anything about it. And I
+
+[44:12] ALLISON / SPREKER 2:
+    I didn't know anything about it. And I
+
+[44:18] JERRY:
+    I didn't know anything about it. And I didn't want FSD. I But I was real excited about the enhanced autopilot.
+
+[44:21] ALLISON / SPREKER 2:
+    I wanted that. It was one of the
+
+[44:21] JERRY:
+    I wanted that. It was one of the
+
+[44:25] ALLISON / SPREKER 2:
+    I wanted that. It was one of the features that I was looking forward to when I got this car.
+
+[44:28] JERRY:
+    And to be fair, like uh FSD has come a
+
+[44:28] ALLISON / SPREKER 2:
+    And to be fair, like uh FSD has come a
+
+[44:33] JERRY:
+    And to be fair, like uh FSD has come a long way since you bought this car. Like we there was a couple trials that we that we got like free trials.
+
+[44:35] ALLISON / SPREKER 2:
+    It scared me out of my mind.
+
+[44:35] JERRY:
+    It scared me out of my mind.
+
+[44:35] ALLISON / SPREKER 2:
+    It scared me out of my mind.
+
+[44:36] JERRY:
+    Yeah. Ally tried it and she didn't she
+
+[44:36] ALLISON / SPREKER 2:
+    Yeah. Ally tried it and she didn't she
+
+[44:43] JERRY:
+    Yeah. Ally tried it and she didn't she didn't like it. But I mean 14.2.1 is a major upgrade for FSD. And a lot of people have said this,
+
+[44:45] ALLISON / SPREKER 2:
+    but it's a really great system. I have I
+
+[44:45] JERRY:
+    but it's a really great system. I have I
+
+[44:49] ALLISON / SPREKER 2:
+    but it's a really great system. I have I have done a trial a few times now
+
+[44:51] JERRY:
+    and this one is the first time that I've
+
+[44:51] ALLISON / SPREKER 2:
+    and this one is the first time that I've
+
+[44:57] JERRY:
+    and this one is the first time that I've actually been able to drive it without feeling like I had to just take over all the time.
+
+[44:59] ALLISON / SPREKER 2:
+    Yeah. But $8,000 is an insane price to
+
+[44:59] JERRY:
+    Yeah. But $8,000 is an insane price to
+
+[45:00] ALLISON / SPREKER 2:
+    Yeah. But $8,000 is an insane price to charge.
+
+[45:00] JERRY:
+    It really is.
+
+[45:00] ALLISON / SPREKER 2:
+    It really is.
+
+[45:00] JERRY:
+    It really is.
+
+[45:03] ALLISON / SPREKER 2:
+    If it was $3,000, that's a no-brainer
+
+[45:03] JERRY:
+    If it was $3,000, that's a no-brainer
+
+[45:14] ALLISON / SPREKER 2:
+    If it was $3,000, that's a no-brainer decision like any day of the week. Well, yeah, because then the cost on our um our little scoring sheet, I would have given it a much higher
+
+[45:15] JERRY:
+    Yeah.
+
+[45:15] ALLISON / SPREKER 2:
+    Yeah.
+
+[45:15] JERRY:
+    Yeah.
+
+[45:17] ALLISON / SPREKER 2:
+    I mean, even at double the price of
+
+[45:17] JERRY:
+    I mean, even at double the price of
+
+[45:22] ALLISON / SPREKER 2:
+    I mean, even at double the price of a comma with Open Pilot, I would still pick FSD any day of the week.
+
+[45:23] JERRY:
+    Mhm.
+
+[45:23] ALLISON / SPREKER 2:
+    Mhm.
+
+[45:23] JERRY:
+    Mhm.
+
+[45:25] ALLISON / SPREKER 2:
+    But at $8,000,
+
+[45:25] JERRY:
+    But at $8,000,
+
+[45:57] ALLISON / SPREKER 2:
+    But at $8,000, that's that is a that is a bitter pill to swallow. So, okay. Final score for FSD is 25.5. enhanced autopilot 21.5 and still winner is the comma AI open pilot system at 26.5. So let us know what you think in the comments down below. I can't wait to see the opinions that are going to come flying at us and I'm fully prepared. Um but that's not to say that we don't like FSD. I think we are both uh admittedly very impressed with the system. Yeah,
+
+[46:00] JERRY:
+    it's not perfect and it's that it's the
+
+[46:00] ALLISON / SPREKER 2:
+    it's not perfect and it's that it's the
+
+[46:15] JERRY:
+    it's not perfect and it's that it's the price that really hurts it. So, that's where we are on it. So, that does it for our review of FSD. As always, we appreciate your support for the channel. Thank you for watching and be sure to leave your comment down below. You guys want to say anything?
+
+[46:16] ALLISON / SPREKER 2:
+    Subscribe.
+
+[46:16] JERRY:
+    Subscribe.
+
+[46:16] ALLISON / SPREKER 2:
+    Subscribe.
+
+[46:17] JERRY:
+    Have a great day or night.
+
+[46:17] ALLISON / SPREKER 2:
+    Have a great day or night.
+
+[46:17] JERRY:
+    Have a great day or night.
+
+[46:19] ALLISON / SPREKER 2:
+    Have a great day or night. And don't
+
+[46:19] JERRY:
+    Have a great day or night. And don't
+
+[46:23] ALLISON / SPREKER 2:
+    Have a great day or night. And don't Yes, don't forget to like and subscribe. And as always,
+
+[46:32] JERRY:
+    enjoy the drive. Enjoy the drive.
+
+[46:32] ALLISON / SPREKER 2:
+    All right, that's it.
+
+================================================================================
+
+--- GEËXPORTEERDE YOUTUBE DISCUSSIES & COMMENTS ---
+
+💬 HOOFDCOMMENT van @instantchow (2 weeks ago) | 1 Likes:
+    "Just a minor comment, throw your audio in a high pass filter. Get rid of the low Rumble it's kind of Ace of Base over here. Thank you for doing the comparison, considering getting this once the Aptera comes out."
+
+    └── ANTWOORD van @theelectricvalentines (2 weeks ago) | 0 Likes:
+        "I've upgraded mics since this video!"
+
+💬 HOOFDCOMMENT van @HIGHSOCIETYJAY (2 weeks ago) | 0 Likes:
+    "Bruh was so mad 😂"
+
+💬 HOOFDCOMMENT van @nate0031 (1 month ago) | 1 Likes:
+    "I use OpenPilot/BluePilot on other vehicles, and would happily move or add one of those units to a Tesla vs paying a perpetual subscription for a feature on my car. If the cost were more reasonable, I'd simply purchase FSD from Tesla as a one time purchase. However, for 8x the cost, it doesn't seem to provide 8x the functionality."
+
+    └── ANTWOORD van @theelectricvalentines (2 weeks ago) | 0 Likes:
+        "Totally agreed! My wife loves the new Model Y L, but we're not upgrading. We paid the additional $2,000 to own Autopilot outright, and a new car would force us onto a perpetual subscription instead. No way in hell."
+
+💬 HOOFDCOMMENT van @Murphys_Law9 (1 month ago) | 0 Likes:
+    "FSD is in a different category so this video is pointless."
+
+    └── ANTWOORD van @theelectricvalentines (1 month ago) | 0 Likes:
+        "It's definitely in a different category, agreed. Disagree with pointless, though. Not everyone owns a Tesla or want to pay the lifetime subscription fee for FSD. Comma gives people options."
+
+    └── ANTWOORD van @Murphys_Law9 (1 month ago) | 0 Likes:
+        "@theelectricvalentines I only say pointless because FSD is on a whole different level. Comma is more of a comparison for Tesla auto pilot because they do the same thing which is lane centering and some slight curves."
+
+    └── ANTWOORD van @theelectricvalentines (1 month ago) | 1 Likes:
+        "​ @Murphys_Law9  Comma does more than lane centering and slight curve. It's handling 90+ degree turns on my Rivian, has hands-free anywhere (Autopilot doesn't have hands-free at all), and runs experimental mode (traffic light and stop sign recognition) with develipment on large-models using the recently released eGPU. That puts it somewhere between Autopilot and FSD, not a straight Autopilot comparison. Definitely agree it's very car-dependent though."
+
+    └── ANTWOORD van @Murphys_Law9 (1 month ago) | 0 Likes:
+        "@theelectricvalentines Well since you put it like that, it’s indeed getting better. I had no idea it did all that."
+
+💬 HOOFDCOMMENT van @HMCraig-z4g (2 months ago) | 2 Likes:
+    "v14 was great till yesterday when it tried to take me down the wrong way on the highway. I stopped it before we got there, but it was scary nonetheless."
+
+    └── ANTWOORD van @AllergicToFacts (1 month ago) | 1 Likes:
+        "bruh thats fuckin wild"
+
+    └── ANTWOORD van @theelectricvalentines (2 months ago) | 0 Likes:
+        "That does sound scary!"
+
+💬 HOOFDCOMMENT van @echoplexSE (2 months ago) | 1 Likes:
+    "I bought FSD, unfortunately, and have V14 and honestly thinking about getting a Comma 4 for my Y"
+
+    └── ANTWOORD van @theelectricvalentines (2 months ago) | 0 Likes:
+        "Really? What issues have you been having with FSD?"
+
+    └── ANTWOORD van @echoplexSE (2 months ago (edited)) | 1 Likes:
+        "@theelectricvalentines  they keep changing things, now it nags you to put a destination in every single time you drive, unless you put one in. The prompt that persists and nags you why you disengaged. No proper speed control, no way to minimize unnecessary lane changes. It just ignores you when you cancel a lane change and will just change lanes anyway. It feels like wrestling with your car. I’m honestly sick of it"
+
+💬 HOOFDCOMMENT van @timbuktoo23 (6 months ago) | 2 Likes:
+    "Came here to see open pilot review on Tesla, but they didn’t test it, not sure if it was a bait but the title of the video is super misleading."
+
+    └── ANTWOORD van @morejavi (6 months ago) | 1 Likes:
+        "Literally title sats vs Openpilot. 😮"
+
+    └── ANTWOORD van @theelectricvalentines (6 months ago) | 1 Likes:
+        "Literally the first thing I do in this video is explain exactly how we tested everything.  Nothing in the title says Openpilot was on the Tesla."
+
+💬 HOOFDCOMMENT van @JustMeJamesYt (8 months ago) | 1 Likes:
+    "Great video,hope to see you guys try the open pilot with the Tesla."
+
+💬 HOOFDCOMMENT van @flashesbuck (8 months ago) | 1 Likes:
+    "Why do you have a Take 5 air freshener? Are you trolling us? Is this who changes the oil in your Tesla?"
+
+    └── ANTWOORD van @theelectricvalentines (8 months ago) | 1 Likes:
+        "I do! From Take 5 car wash!"
+
+💬 HOOFDCOMMENT van @FukU2222 (8 months ago) | 0 Likes:
+    "Man, Tesla people REALLY fkn ROT me.... These people in this comment section bro 😂absolute 🤡"
+
+💬 HOOFDCOMMENT van @FukU2222 (8 months ago) | 0 Likes:
+    "I am amazed how many elon evangelists there are here in the comments (maybe it's the sunk-cost speaking for them). How can people not understand the value, you aren't locked into a tesla, you can drive (almost) any vehicle ~75-90% as well as tesla's do "autonomously" for a reasonable up-front cost, with minimal install time. It's customizable and continuously improving, and you can take it with you if something happens. try taking your 3 years worth of subs to FSD with you to your new lease/purchase."
+
+💬 HOOFDCOMMENT van @wendyplunk2398 (8 months ago (edited)) | 7 Likes:
+    "Great video. We didn’t purchase enhanced auto pilot . Im leaning towards purchasing the FSD.  After driving fSD the last 10 months."
+
+    └── ANTWOORD van @theelectricvalentines (8 months ago) | 2 Likes:
+        "Definitely do it before Feb. 14, then!  But also consider whether it makes financial sense to buy it outright rather than paying the $99/month subscription.  $8000 = 6 and a half years of $99/month payments.  How long do you plan to keep your Tesla?"
+
+💬 HOOFDCOMMENT van @JuanMedina-ik4zz (9 months ago) | 2 Likes:
+    "OpenPilot, in my opinion, is far behind FSD. You can't really compare it to FSD, they are different worlds!"
+
+    └── ANTWOORD van @theelectricvalentines (9 months ago) | 3 Likes:
+        "I think you can still compare it, but I agree FSD is way more advanced! It's just too expensive. I think Rivian priced their Autonomy package much better. At $3000 FSD would be a no-brainer."
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "I think it's a no brainer to compare them. They are both 'self driving' albeit on different levels targeting different markets. Tesla targets the "iPhone" user who is trendy, thoughtless, and has money to burn and doesn't consider much more than surface level.
+
+OpenPilot caters to people who are frugal, have critical thought, and are self sufficient to the point that they can think for themselves. They aren't trying to get you from A-to-B while you jerk off, it's just supposed to be a chill drive that lightens the load on long commutes"
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "Also - one you can install on almost any vehicle made in the last ~10-15 years, the other you have to pay a subscription, or find a crappier early car that paid a LARGE fee up front and is bound to be bricked in the next 1-5 years.
+
+I could unplug a comma from a brand new tesla, go to a porsche, own that for a year, unplug it for a business trip to dubai and plug it into a rental there and be up and running within 30min or less in like ~one of 300+ vehicles."
+
+💬 HOOFDCOMMENT van @htc9080 (9 months ago (edited)) | 9 Likes:
+    "The biggest selling point of OpenPilot is that it is a portable self-driving tool. 
+Even if you are traveling in a foreign country, you can almost always rent a Toyota and easily use it RIGHT NOW."
+
+    └── ANTWOORD van @theelectricvalentines (9 months ago) | 3 Likes:
+        "I need to put together a rental harness kit!"
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "Or simply if you get a new/different vehicle. Maybe yours was in an accident or has some long(er) repairs it needs and you get a loaner? Rip out the comma, stick it in your ‘new daily’"
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "And like you said, the comma works (decent) in a lot of lesser developed places/where standards are worse/different, or even ‘off road’ provided there is a clear path"
+
+💬 HOOFDCOMMENT van @kootenayevfamily (10 months ago) | 3 Likes:
+    "Interesting that Rivian has gone with $2.5k as the price point that they think the market will bear for forthcoming similar technology. I have a Gen 1 R1T though, so looks like it is Comma for me :)"
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago) | 2 Likes:
+        "lol, yeah, $500 below what I was saying Tesla should be selling FSD for!  Hopefully Telsa lowers their prices as well - competition should be good for consumers!"
+
+    └── ANTWOORD van @jerebediah (3 months ago) | 1 Likes:
+        "@theelectricvalentines  older comment but Rivian's is no where near Tesla's. I own a Juniper and as much as I love FSD. I wont pay the 99 a month. It is amazing and partly why I bought the car but its too steep for me to pay. If I go on long drives I will use it. I am actually looking at getting the comma 4 (hence why I am looking at these videos). FSD is okay around town but isnt perfect. Its great on the highway. At the price point thought I think comma 4 is a better option if alls you are using it for is on the highway. I didnt know about comma before purchasing my tesla. If I would have known I most likely would have gone a different direction. Good review. It would be cool to see an update. I have seen comma 4 has updates and FSD for Teslas latest update are pretty different from when this was done."
+
+💬 HOOFDCOMMENT van @Aragon0450 (10 months ago) | 2 Likes:
+    "As someone who has worked with Openpilot for years (check my channel if you don’t believe me), I think that Openpilot is hands-down, the best *assistant* that exists on the market today. 
+
+Back in 2021 when we were looking for ways to make it better, a few of us came up with the idea for split ACC/LKAS. That’s when Jason Wen (the founder of sunnypilot) reached out and took that concept and built upon it with a whole fork full of custom features. That’s what Openpilot is all about… customization.
+
+That being said, I also have a HW4 Tesla Model 3. It’s hard to compare FSD because, if I was in the back seat of the car, I’d want FSD any day of the week. They just need to solve the speed limit and model desire noise (lane change twitches). 
+
+However, being in the driver’s seat with FSD right now has made me feel embarrassed as a driver with some of the awkward movements and indecision it’s been making. This is why I believe a fully fledged system such as Openpilot really bridges that gap without trying to go full-out autonomous. But it’s very hard to compare because they are two completely different systems with different goals in mind."
+
+    └── ANTWOORD van @FukU2222 (8 months ago (edited)) | 0 Likes:
+        "I agree, but some people don't realize that they aren't direct competitors (see the comment section here for all the FSD evangelists lol) and hence we should remind them that this is a small, upfront fee, that takes ANY vehicle (almost), made within the last ~10-15 years, to at least 80% of what FSD can do. Sure you can't do lights (fully)/stops and some basic city driving, but SURELY most cities out there have access to SOME form of freeway/highway, which is the purpose of this device. Not to mention it can be taken with you, but your subscription to FSD (or up front payment if you were early) will remain with papa elon lining his pockets for generations.
+
+Don't get me wrong, I don't really have anything against Elon, I just have a strong distaste for all these fart-sniffers... lol
+
+(I say this as someone who has neither a Tesla or a OpenPilot equipped vehicle, just appreciate George)."
+
+    └── ANTWOORD van @FukU2222 (8 months ago (edited)) | 0 Likes:
+        "the way I see it is, "FSD is the main reason to get a Tesla" well - not anymore if you can have (effectively) the same thing for MOST scenarios, AND you get to keep/take it with you, it's not (entirely) baked into the (ONE brand of) vehicle.
+
+I can see if you had a newborn or you weren't very confident behind the wheel or attentive or you live in somewhere with very hectic freeways or something, that FSD and it's "safety" that it offers, might be a selling point or a determining factor, but maybe it's just me and the fact I like driving (and don't live anywhere like that really) but I can't understand the logic (I also live in the middle of nowhere where we literally don't even have superchargers and have like ~a dozen or two dozen charging locations within like ~1000+ square miles or so)"
+
+    └── ANTWOORD van @theelectricvalentines (2 weeks ago) | 0 Likes:
+        "Totally agreed! There's a lot we love about FSD on my wife's Model Y, but we've kept improving Openpilot on the Rivian to the point where I'm really happy with it, and it keeps getting better. I've also come to love how open source it is, and the developer community around it."
+
+💬 HOOFDCOMMENT van @jc_usa_21502 (10 months ago) | 2 Likes:
+    "i hate that slowing down for curves .. it's ridiculous 90% of the time 
+i wish we had a setting to toggle so if you want it you get it , if i want a steady speed it keeps it"
+
+💬 HOOFDCOMMENT van @Spring_on_Jupiter_and_Mars (10 months ago) | 4 Likes:
+    "😂 are you guys seriously comparing FSD to some random software. Just like waymo is not comparable to FSD. FSD is becoming a general AI solution for autonomous driving. Would you risk your life in a openpilot. The world has already crowned Tesla. The fact you rate openpilot higher makes you two unqualified. You barely know how FSD works. Looks like you just started using it just now. There is a hundred companies doing what openpilot is doing. The Chinese have tested all of them. FSD is the best. Nothing close."
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago (edited)) | 5 Likes:
+        "Actually I rated FSD higher than openpilot by half a point. But it's my wife's car and her opinion counts too. We were both impressed with FSD and we say as much in the video. The thing that kills it is the price. It's good, but it's not 8 times the price good, but this is just our opinion."
+
+    └── ANTWOORD van @Spring_on_Jupiter_and_Mars (10 months ago (edited)) | 1 Likes:
+        "​​ @theelectricvalentines I'm not interested in your rating scale. It concerns me somewhat that people are pushing a science project like Openpilot over FSD. FSD is going to save the lives of 35 thousand people in the US and 1.2 million people all around the world. FSD is already here and ready for adoption. What Videos like yours is doing is to slow down adoption of FSD. They are not even on the same planet. People will wrongly believe openpilot is going to move out of the way of emergency vehicle or get out of the way of an obstacle and this is going cause more accidents. Subscription will be the only way to get FSD in the future. That's going to help with costs. You know how expensive AI compute and training are. Nevertheless, the 8 grand helps Tesla with bringing this great product to market. I hope you show your audience a detailed lists of the things FSD can do and compare that to openpilot. Let them choose."
+
+    └── ANTWOORD van @로봇의최전선 (9 months ago) | 9 Likes:
+        "@Spring_on_Jupiter_and_Mars  I believe you have no idea how technology has developed and evolved. Tesla's stock price and technology are completely unrelated. While the introduction of FSD should be expedited, religious belief in Tesla actually hinders technological advancement. I urge you to look at the world with a more objective perspective."
+
+    └── ANTWOORD van @Spring_on_Jupiter_and_Mars (2 months ago) | 0 Likes:
+        "​ @로봇의최전선 😂 I heard Koreans are selling their homes to buy Tesla stock. I think more people agree with me. I'm a long time stock investor in Tesla. You're trying to explain technology. I'm trying to save lives by preventing morons from trusting a home made software. The Chinese already have all of the current AI driving software. They have done extensive testing. Nothing is close to FSD. The CEO of LI Auto, Xpeng, and Xiaomi have personally test driven FSD. They admitted FSD is years ahead. 100k and more videos proving FSD capabilities. Customers with 20k miles on 100% FSD already exists. 94 year olds are using it to return their independence. FSD is already solved. They are now working on the edge cases like parking, mapping, and personal preference. Why even comment when you yourself can't point to a single example of FSD current development cycle. People like you are why more people die from car accidents each year."
+
+    └── ANTWOORD van @echoplexSE (2 months ago) | 1 Likes:
+        "FSD V14 is barely usable, no set speed offset and NO way to minimize lane changes, I bought it in two of my hw4 cars and regret it.  I don't even use it anymore, thankfully I still have autosteer but that has been Nerf'd to hell over the past few years and they don't even offer it anymore."
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        ""The world has already crowned Tesla" hahahahahahahahahahahahahah man you must have some fecal matter on your nose from brown-nosing telsa that hard and inhaling all those braps from elon..."
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        ""some random software" lol, george hotz and comma showed elon the way ages ago. Remember how teslas used to have all kind of silly sensors and crap for their 'self driving' ?? Well these guys have been doing it on shitty smartphone hardware with ~3 cameras for a decade... Guess what bud? They are using AI to train their models too!!! I would actually MUCH rather put my hands an OpenPilot than a Tesla for my commutes. Any day of the week... (I say this as someone who has neither and has used neither).
+
+"The fact you rate openpilot higher makes you two unqualified. You barely know how FSD works"
+The fact you are making such fart-huffing comments makes your comments entirely null-and-void. You barely know how the internet works - looks like you just started using it just now. There are THOUSANDS of people trusting their lives with openpilot as we speak. OpenPilot has the 2nd most "autonomous" miles travelled only next to tesla and their fleet isn't limited to 4 stupid cars that will end up as bricks lol...."
+
+    └── ANTWOORD van @FukU2222 (8 months ago (edited)) | 0 Likes:
+        ""TSLA SpaceX USA Trump" I genuinely hope you lose all your investment in Tesla, for no other reason than the fact you are ignorant, pompous and just dumb/closed minded. Nothing to do with the trump part, just the fact you are an elon butt-sniffer...
+
+I want to like Tesla(s), but it's people like you that literally make me unable to be ascociated with the brand whatsoever. I would never even hold this stock that's how much I deteste people like you"
+
+💬 HOOFDCOMMENT van @frua97 (10 months ago) | 3 Likes:
+    "FSD 14.2.1. is very timid in general, refusing to change lanes. The mode doesn't matter that much on assertiveness."
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago) | 0 Likes:
+        "We definitely experienced that as well."
+
+💬 HOOFDCOMMENT van @frua97 (10 months ago) | 3 Likes:
+    "Tesla's Full Self-Driving (Supervised) v14.2.1 is not designed to be used without a destination. It fundamentally relies on a navigation route to provide context for path planning, lane changes, turns, and arrival behaviors like parking. The official release notes for software version 2025.38.9.6 (which includes FSD 14.2.1) describe its core functionality as: "Under your supervision, Full Self-Driving (Supervised) can drive your Tesla almost anywhere. It will start from a parked position, make lane changes, select forks to follow your navigation route, navigate around other vehicles and objects, make left and right turns and park at your destination." Without entering a destination, there's no defined route for the system to follow, which would limit it to basic behaviors like staying in a lane or following traffic flow—similar to earlier Autopilot features, not the advanced end-to-end autonomy of FSD."
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago) | 1 Likes:
+        "Yeah, I know it's not the standard use case.  With a destination in navigation it worked pretty well.  It's just annoying to have to do that every time you want to drive hands-free.  Even still, I didn't deduct any points for it."
+
+💬 HOOFDCOMMENT van @MartianWish (10 months ago) | 4 Likes:
+    "openpilot doesn't check blind spot when making lane change,  you have to nudge the wheel to start a lane change after confirming it. Tesla FSD does all this by itself."
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago (edited)) | 4 Likes:
+        "Openpilot absolutely DOES check the blind spot when making a lane change and you DON'T have to nudge the wheel to make a lane change - all you have to do is turn on the signal.  Where are you getting your information??"
+
+    └── ANTWOORD van @GoatDirt (10 months ago (edited)) | 1 Likes:
+        "@theelectricvalentines  which version does this without the signal? Iirc some mods exist, but main releases didn’t back when I had it on my ‘23 escape"
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago) | 2 Likes:
+        "@GoatDirt  I use Sunnypilot on the Rivian.  As long as it can get the blind spot signal off of the canbus it can use that data to, for example, delay automatic lane changes until the blind spot is clear.  Nudgeless lane change is an option on Sunnypilot as well."
+
+    └── ANTWOORD van @GoatDirt (10 months ago) | 0 Likes:
+        "@theelectricvalentines  fantastic! That is great to hear. Do you know if the hilly performance has improved? Back then it was touchy"
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago (edited)) | 1 Likes:
+        "​​ @GoatDirt what do you mean by hilly performance? I haven't noticed any issues."
+
+    └── ANTWOORD van @GoatDirt (10 months ago) | 1 Likes:
+        "@theelectricvalentines  just driving in Livermore or Vallejo where tight up and down curvy hills are, it would get hesitant on the roads and not drive confidently. They no doubt have it fixed by now"
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago) | 1 Likes:
+        "@GoatDirt  lol, well the roads here in Texas are flat and straight as hell, so I'm not the best person to comment on that unfortunately! 😆"
+
+    └── ANTWOORD van @GoatDirt (10 months ago) | 0 Likes:
+        "@theelectricvalentines  lol!"
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "@GoatDirt  This just smells of bs lol...  "hilly roads" and "get hesitant on the roads and not drive confidently" and "mods" reeks to me of user-error/improper installation.  Could have even been on a Comma2"
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "Hey look, another LIAR who LOVESSSS elon so much their nose is brown"
+
+💬 HOOFDCOMMENT van @avaldes74 (10 months ago (edited)) | 1 Likes:
+    ""Perfect" subjective test"
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago (edited)) | 0 Likes:
+        "I try my best to remain unbiased, but at the end of the day this is just our opinion!  I did rate FSD higher than all the other systems at 27 out of 30.  It's really the insane price that brings it down."
+
+💬 HOOFDCOMMENT van @MartianWish (10 months ago (edited)) | 7 Likes:
+    "1. This is non-sense. FSD is 100 dollars a month.
+ 2. If a car swerves at you, FSD 14 can dodge ( you need to watch more FSD videos, it can dodge)
+3. If a car reverses into your car, FSD can instantly reverses to distant itself from that car
+ 3. FSD 14 can reverses in the middle of the road when the road is tight, can't fit 2 cars or 3 cars , reversing to get out the the stuck situation
+ 4. FSD 14 can drive on snow, fog, rain, direct sunlight
+5. FSD quick reaction time and stopping when there is a pedestrian sudden poke out  in the middle of the road
+and more etc... NONE of your fake "autonomous softwares" can do any of this."
+
+    └── ANTWOORD van @jerebediah (3 months ago) | 2 Likes:
+        "100 a month is still a very excessive price for a convenience(I have seen some people say that FSD is the only way they can drive, If thats the case they probably shouldnt be behind the wheel at all). Yes, FSD does swerve  for oncoming cars or dangers, but its far from accident proof in this case. I have had mine for 6 months and its really a stellar system but it struggles a bit in cities and towns. I have 2 round abouts I have to go through to leave my subdivision. If I dont tell fsd to be in the right most lane it will get stuck in the round about. I have had it literally just beep and turn off FSD in middle of the round about. Its still amazing though. 
+
+As for snow, fog, rain, direct sunlight I dont know where you get your info from but when it rains my fsd says its not working fully. I also have had it shut off on the freeway and tell me to grab the wheel during rain before. So I dont think that statement is fully true. Yes, can it drive in rain SOMETIMES. Not all the time. 
+
+Calling Comma 4 a "fake autonomous software" is  so closed minded.  Its crazy how far from earth some of the die hard tesla fans are. This software is a fraction of the price and is being updated constantly. Its not where Tesla's FSD is but it doesnt say it is. Its where autopilot was 5 years  ago. Think about that when Elon was promising FSD (which still isnt here) and charging people 8k (and still hasnt completed the promise) you basically got autopilot. This is $900 and does basically the same thing. Other thought on Comma 4 is what is it going to do in 5 years? They may never be able to full self drive (which Tesla's is still supervised at the moment) but it could be damn close to supervised FSD. One last thing people miss about the comma 4 is in 5 years when you trade your tesla in (assuming you dont get another tesla) you dont get to take teslas FSD out and put in another car. The comma 4 is yours to take to whatever car you want next. 
+
+I for one will not be paying 99 a month to continue my FSD on my Tesla. I most likely will buy a comma 4 and use it for highway driving. If I need FSD for something I will buy a month of it at a time."
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago) | 1 Likes:
+        "It is a very impressive system. I rated it a 27 out of 30.  Plus it's only $100/month if you want to rent it. Makes sense if your leasing the car, though."
+
+    └── ANTWOORD van @MartianWish (10 months ago) | 0 Likes:
+        "@theelectricvalentines  If you already purchased the car, you don't have buy FSD 14 for 8000 dollars, just pay monthly 100 dollars for FSD 14. This is not just for renting."
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago (edited)) | 3 Likes:
+        "@MartianWish  I meant you're "renting" FSD for $100/month.  If you keep the car for 5 years that means you've paid $6000 to "rent" FSD and you don't even get to add that value to the car when you sell it or trade it in.  If you are leasing the car, 100% you should do the subscription.  If you own the car and plan on keeping it for at least 5 years you should consider buying it, but I still think $8000 is an outrageous amount to pay for the system. It's not worth that much, IMO, but that's a decision people have to make for themselves."
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "​ @MartianWish  what are you talking about, you don't own FSD, you aren't buying anything, you are pissing your money away each month you "pay" for your "car" (see - paperweight)
+
+What's the shortest contract you can sign with tesla right now? 3 years? 2 years? so you are paying at minimum ~$2400-$3600 over the course of your RENTAL (see- "lease" because you are just dumb if you are actually buying a tesla sorry lol) to use a feature that's built into the car already.
+
+Why would you not just pay $1000 and NOT be locked into teslas paper-weight ecosystem of perpetual bricks that burn money, and just make the stops/turns yourself until the update(s) come that bring it (more on par) with tesla, AND you can continue to re-use your $1000 up-front investment, on OTHER vehicles! While you travel, while your vehicle(s) get repaired due to causes that aren't in your control (see - that one time that you get t-boned while FSD is enabled and your car is out of commission until insurance gets back to you and u are stuck driving a toyota, guess what? FSD didn't see that coming, some things are just unpredictable, but making a bad decision like buying a tesla? predict the future, don't waste your money)"
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "@MartianWish  for the cost of subscription fee over the course of 'ownership' of your tesla, you could buy multiple Comma devices, for you, your wife, your parents or childrend... AND have some money left over for a few tanks of gas or charges or whatever (and you could continue to use them even after something happens because you aren't locked into Tesla and that one vehicle)"
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "Lol someone is really hung up on Elon’s gooch. FSD is better, yes, OpenPilot doesn’t claim to be “autonomous” or “self driving” to the extent of Tesla, nor is it trying to be. When your Tesla is in a wreck or bricks itself, you can’t take your subscription to your loaner/rental though. Stay mad and keep writing essays nobody will ready because YOU missed the point entirely :)"
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "A computer is only as smart as the idiot operating it/who programmed it. Autonomy and “FSD” can’t save you entirely from the real world (and has certainly led to deaths whether from glitches or malfunctions or due to complacency and/or overconfidence - can’t really be said about openpilot but you can find footage of it saving people too)"
+
+💬 HOOFDCOMMENT van @andyfeimsternfei8408 (10 months ago) | 1 Likes:
+    "FSD at $100/month makes it a great deal. No one should buy it anymore."
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago) | 2 Likes:
+        "Maybe.  I'm not so sure. That's still $6000 over a 5-year period, and after that 5 years it's not even an asset that adds value to the car - it's just money gone.  I'm not a huge fan of the subscription model in general.  It does make sense if you lease the car, though."
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "@theelectricvalentines  If you lease a car OpenPilot makes sense? or FSD? Why would you add $100 a month to your (already out-of-whack) payments considering you're just renting when you can just get an openpilot that you can take with you? I assume that's what you were getting at, thought I would restate/remind people "You'll own nothing and you'll be happy""
+
+    └── ANTWOORD van @andyfeimsternfei8408 (10 months ago) | 1 Likes:
+        "​ @theelectricvalentines I'm driving antique V3 Teslas and I can't drive a car manually anymore. I would pay just about any price now as I can't see owning a car without it. I have a GMC EV with Supercruse and it is horrible."
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "@andyfeimsternfei8408  and if you put an openpilot on your GMC you would probably eat your words about lining elons pockets with more benjamins lol"
+
+    └── ANTWOORD van @fergmorriss1651 (10 months ago) | 1 Likes:
+        "it is a great deal as for $100 a month you can drastically reduce the chance you and your passengers are injured or killed and have an insurance claim from an accident where your rates go up.  I bought FSD outright for an old M3 about 3.5 years ago and transferred it to my new M3 last year.  Wrapping the cost into financing the vehicle makes it easier than coming up with that amount of cash.  Its a big mistake not to get it one way or another when you consider the benefits to health and safety, not to mention how much of a stress reliever it provides.  Aside from short trips I use FSD 100% of the time."
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago (edited)) | 1 Likes:
+        "@fergmorriss1651  as I mentioned above, I think paying the $100/month subscription only makes sense financially if you're leasing the car.  If you keep the car for 5 years and you're paying that subscription fee, you're out $6000 at the end of the 5-years and you can't even add the value of FSD to the car when you sell it or trade it in.  But I agree with your safety sentiment.  I use Openpilot 100% of the time as well for the same reason."
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "Damn elon paying for some deep-bot comments on YT vids?"
+
+💬 HOOFDCOMMENT van @skytech2501 (10 months ago) | 0 Likes:
+    "Comma AI is good, but scoring better than FSD is laughable and shows your bias. Why would you even test it without a clear destination entered? Are you complaining about switching between autopilot and FSD? Who would do that if you have FSD? One is self-driving, and the other is driving assistance. Most mediocre testing ever. Watch @AIDRIVR if you really want to know how to cover FSD without any bias."
+
+    └── ANTWOORD van @FukU2222 (8 months ago (edited)) | 0 Likes:
+        "and not realzing that a 'score' is an attempt to compare things objectively shows your bias. FSD is a subscription for something you literally don't get - nobody is saying it's "worse" than openpilot, it's 100% better than it, everyone knows that FSD is the most capable system on the market. What YOU are missing is that you don't GET "full self driving" - it's a noble attempt at it, but it's still not there at all, and you are paying a subscription fee.
+
+OpenPilot is a system that can be installed on ANY VEHICLE (almost) equipped with lane-keep assist, for less than your stupid new phone. You can unplug it, and bring it with you when you travel, get a new vehicle, your car is wrecked/needs repairs etc... OpenPilot isn't attempting to be "fully autonomous driving" it's just improving shitty OEMs attempts at "lane keeping" and improving them to ~75%-80% of what tesla can do (or at least what 80% of people in teslas are using it for on a daily basis on the majority of their commutes)
+
+You aren't stuck in the tesla echo system - you can take your nose out from between elon's cheeks now...."
+
+💬 HOOFDCOMMENT van @GoatDirt (10 months ago) | 4 Likes:
+    "I wish openpilot could summon in a rainstorm - or at all. While changing lanes, openpilot doesn't seem to check blind spot clearance. i had to nudge the wheel to initiate a lane change after confirming. There is a truck stop depot on my route where openpilot failed due to the radar they use, and driving on hills with curvy roads (Livermore California) failed sometimes. I don't recall the cannonball run having any of those. Does Openpilot react to traffic light or stop signs without mods?I had to mod mine to get it to kind of work, but haven't tested it in a while so may have been fixed by now."
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago) | 0 Likes:
+        "How long ago did you use Openpilot and what kind of car did you use it on?"
+
+    └── ANTWOORD van @GoatDirt (10 months ago) | 2 Likes:
+        "@theelectricvalentines  23 escape (started comma early 2023)"
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "There is an alpha experimental version of some fork(s) that enables stop signs but it’s not great yet. Also as for open pilot and radar…. Not sure what you are talking about because openpilot has nothing to do with radar really unless the vehicles lane keep assist incorporates it natively. The only onboard sensors on openpilot/comma devices are cameras IIRC/AFAIK"
+
+💬 HOOFDCOMMENT van @GoatDirt (10 months ago) | 3 Likes:
+    "The software is not going to change its behavior no matter how many times you think signalling should switch lanes. Repeating it is asinine. Why not give it a destination and try signalling to see if it is influenced? I would love for non-destination signalling, but it kind of defeats the purpose of the goal of autonomy if the user is doing all the lane selection and decision making."
+
+    └── ANTWOORD van @chrissuich7423 (10 months ago) | 3 Likes:
+        "What about a scenario where you see that going the direction the map suggests would cause delays, like an accident just happened. You want to signal the vehicle to go the other direction?
+The car ignoring your input is not good."
+
+    └── ANTWOORD van @GoatDirt (10 months ago) | 0 Likes:
+        "@chrissuich7423  on the freeway it used to allow these suggestions. What’s odd is how often it fails to listen to suggestions"
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago (edited)) | 3 Likes:
+        "Sometimes I just want to go for a hands-free drive without having to input a destination, especially for short drives. It's just disappointing that an $8000 system can't reliably do hands-free lane centering without needing to enter a destination into navigation. Otherwise it's very impressive."
+
+    └── ANTWOORD van @GoatDirt (10 months ago (edited)) | 4 Likes:
+        "@theelectricvalentines   I understand why someone may love the signalling to turn feature, but if I wanted to tell the car where to go, why not just have it do it all point-to-point? Let's rally Tesla to do true hands-free and just have us speak into the mic, lol. Tesla is tap-n-go, even with parking spots, so would you also extend the "hands-free" to telling the car to turn left/right while parking? No, just tap the spot and it handles it (until it curb rashes lol). 
+
+Been a while for me, but does open pilot back out of driveways or give a choice in parking yet? The $8k is nuts though I agree, and as competitors catch up they will have to lower it"
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago (edited)) | 1 Likes:
+        "​​ @GoatDirt as I mention in the video, I know it's not the standard use case for FSD, so I didn't really fault it for that and i didn't dock it any points for not being able to do it, but it would be nice to have that feature. And it doesn't seem like it would be difficult to do if Comma can do it."
+
+    └── ANTWOORD van @GoatDirt (10 months ago) | 2 Likes:
+        "@theelectricvalentines   definitely great credit for mentioning that. Love the channel!"
+
+    └── ANTWOORD van @MartianWish (10 months ago) | 1 Likes:
+        "@theelectricvalentines  you keep saying 8000 dollars, but it is only 100 dollars a month"
+
+    └── ANTWOORD van @theelectricvalentines (10 months ago) | 2 Likes:
+        "​ @MartianWish $100/month if you want to do a subscription, $8000 if you want to pay for it outright. I'm not a fan of subscription models."
+
+    └── ANTWOORD van @FukU2222 (8 months ago) | 0 Likes:
+        "@MartianWish  but when you buy a car, do you sign a 1 month contract?"
+
+    └── ANTWOORD van @FukU2222 (8 months ago (edited)) | 0 Likes:
+        "@MartianWish  a two year lease with this system active every month would cost you $2400, for that you could buy two comma's and a few tanks of gas. (oh and guess what? you can unplug your commas and use them on other vehicles at your own leisure, you aren't just pissing money away into the ether - you own a physical product that actually has value, not a shitty car that will be worthless because even if it can drive itself, it can't drive anywhere if it's bricked or wrote off due to batteries or whatever arbitrary thing elon determines about your vehicle)"
