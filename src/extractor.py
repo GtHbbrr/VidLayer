@@ -111,7 +111,7 @@ for item in video_data.get('comments', []):
 comments_tekst = "\n".join(opgebouwde_comments)
 
 # === DEEL 4: ALLES IN HET DYNAMISCHE BESTAND SCHRIJVEN ===
-with open(nieuwe_bestandsnaam, 'w', encoding='utf-8') as t_file:
+with open(f"../data/{nieuwe_bestandsnaam}", 'w', encoding='utf-8') as t_file:
     t_file.write(f"COMPLEET DOSSIER VOOR: {titel}\n")
     t_file.write(f"UPLOAD DATUM: {upload_datum}\n")
     t_file.write("="*80 + "\n\n")
