@@ -8,8 +8,9 @@ map_pad = os.path.dirname(os.path.abspath(__file__))
 os.chdir(map_pad)
 
 # Zoek naar de bestanden
-info_bestanden = glob.glob("*.info.json")
-vtt_bestanden = glob.glob("*.vtt")
+info_bestanden = glob.glob("../data/*.info.json")
+vtt_bestanden = glob.glob("../data/*.vtt")
+
 
 if not info_bestanden:
     print("Fout: Geen .info.json gevonden!")
