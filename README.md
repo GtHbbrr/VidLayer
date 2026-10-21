@@ -1,6 +1,6 @@
-# VidLayer 🚀
+# VidSlayer 🚀
 
-Eenvoudige data-infrastructuur voor online video. Welkom bij de code-blauwdruk van VidLayer! Dit platform helpt softwarebouwers, marketingbedrijven en data-analisten om waardevolle informatie te halen uit online video's en de duizenden reacties daaronder. 
+Eenvoudige data-infrastructuur voor online video. Welkom bij de code-blauwdruk van VidSlayer! Dit platform helpt softwarebouwers, marketingbedrijven en data-analisten om waardevolle informatie te halen uit online video's en de duizenden reacties daaronder. 
 
 Dit is een onafhankelijke, developer-first data-infrastructuur die de ruwe multimedia-chaos van YouTube volledig omzet naar loepzuivere, gestructureerde en direct bruikbare JSON-bestanden.
 
@@ -8,7 +8,7 @@ Dit is een onafhankelijke, developer-first data-infrastructuur die de ruwe multi
 
 ## 🛠️ Hoe werkt het platform (v1.0 Architectuur)
 
-VidLayer werkt volledig *serverless* en *stateless* binnen het Cloudflare-ecosysteem om maximale snelheid, uptime en kostenefficiëntie te garanderen:
+VidSlayer werkt volledig *serverless* en *stateless* binnen het Cloudflare-ecosysteem om maximale snelheid, uptime en kostenefficiëntie te garanderen:
 
 1. **De Data-Ingestie & Schone Extractie (`frontend/` & `extractor/`):** De gebruiker of een externe applicatie stuurt een YouTube-URL in via onze API of de laagdrempelige URL-hack. De code haalt de data client-side binnen via het IP-adres van de eindgebruiker (waarmee CORS-beperkingen en serverblokkades door Google direct worden omzeild). De extractie-motor filtert alle computercodes (`<c>`), timestamps per woord en YouTube-herhalingen volledig weg.
 2. **De Serverless Backend Motor (`backend/` - Cloudflare Workers):** Een slanke, snelle Worker fungeert als de API-gateway. De Worker verwerkt de opgeschoonde tekstpakketjes en stuurt deze door naar de kunstmatige intelligentie.
@@ -19,7 +19,7 @@ VidLayer werkt volledig *serverless* en *stateless* binnen het Cloudflare-ecosys
 
 ## 📊 De 3 Universele Gestructureerde Datalagen (JSON API)
 
-VidLayer doet geen aannames over de specifieke use-case (het is geen gadget, maar infrastructuur) en levert via één POST-request drie objectieve, universele datalagen terug in een strakke JSON-matrix:
+VidSlayer doet geen aannames over de specifieke use-case (het is geen gadget, maar infrastructuur) en levert via één POST-request drie objectieve, universele datalagen terug in een strakke JSON-matrix:
 
 *   **Laag 1: Gesynchroniseerd Gespreksverslag:** Een volledig schoongemaakt, leesbaar transcript waarin de tekst automatisch is opgeknipt per sprekerswissel en is voorzien van heldere tijdstempels (bijv. `[01:21] JERRY:`).
 *   **Laag 2: Genormaliseerde Comment-boomstructuur:** Een wiskundig geordende mappenstructuur van alle reacties onder de video, waarbij de hiërarchische samenhang van hoofdreacties en geneste antwoorden (`└── replies`) volledig intact blijft.
@@ -57,10 +57,10 @@ VidLayer doet geen aannames over de specifieke use-case (het is geen gadget, maa
 
 ## 💸 Het Symbiotische Business- & Monetizationmodel
 
-VidLayer is ontworpen als een **concullega-muisje** voor de grote AI-spelers. We concurreren niet met de grote LLM-aanbieders, maar we zijn een partner die juist hoogwaardig, gezuiverd dataverkeer en extra omzet naar hun netwerken jaagt. Dankzij de ingebouwde caching via Cloudflare AI Gateway belasten we hun servers nooit met onnodige dubbele aanroepen.
+VidSlayer is ontworpen als een **concullega-muisje** voor de grote AI-spelers. We concurreren niet met de grote LLM-aanbieders, maar we zijn een partner die juist hoogwaardig, gezuiverd dataverkeer en extra omzet naar hun netwerken jaagt. Dankzij de ingebouwde caching via Cloudflare AI Gateway belasten we hun servers nooit met onnodige dubbele aanroepen.
 
 *   **De Gratis Sandbox:** Ontwikkelaars kunnen de API volledig gratis testen in een gelimiteerde proefomgeving (aangedreven door onze gratis failover-cycler).
-*   **Pay-as-you-go SaaS:** Zodra de applicaties van onze klanten live gaan, betalen ze automatisch een vast, laag bedrag per verwerkte video-minuut via Stripe, of ze vullen *hun eigen enterprise API-key* in waarbij VidLayer puur als de gestructureerde data-infrastructuurtunnel fungeert.
+*   **Pay-as-you-go SaaS:** Zodra de applicaties van onze klanten live gaan, betalen ze automatisch een vast, laag bedrag per verwerkte video-minuut via Stripe, of ze vullen *hun eigen enterprise API-key* in waarbij VidSlayer puur als de gestructureerde data-infrastructuurtunnel fungeert.
 
 ---
 *Dit project is gebouwd met de robuuste, serverless filosofie van een eenmans-it-gigant. AI-responses op data-analyses kunnen fouten bevatten. Controleer de onbewerkte databestanden bij twijfel.*
